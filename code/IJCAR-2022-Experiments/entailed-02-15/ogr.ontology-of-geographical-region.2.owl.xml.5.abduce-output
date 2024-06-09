@@ -1,0 +1,162 @@
+Using timelimit of 30 seconds
+Using file ../entailed-02-15//ogr.ontology-of-geographical-region.2.owl.xml.5.model for output
+executing ../entailed-02-15//ogr.ontology-of-geographical-region.2.owl.xml.5.dfg
+SINGLE FILE
+Using bound 2
+
+SPASS V 3.9 
+SPASS beiseite: Maximal number of loops exceeded.
+Problem: ../entailed-02-15//ogr.ontology-of-geographical-region.2.owl.xml.5.dfg 
+SPASS derived 37 clauses, backtracked 0 clauses, performed 0 splits and kept 189 clauses.
+SPASS allocated 78926 KBytes.
+SPASS spent	0:00:00.02 on the problem.
+		0:00:00.01 for the input.
+		0:00:00.01 for the FLOTTER CNF translation.
+		0:00:00.00 for inferences.
+		0:00:00.00 for the backtracking.
+		0:00:00.00 for the reduction.
+
+Clauses printed to: ../entailed-02-15//ogr.ontology-of-geographical-region.2.owl.xml.5.dfg.clauses
+
+
+real	0m0.027s
+user	0m0.004s
+sys	0m0.023s
+time limit or nesting level reached!
+Relevant positive ground clauses:
+-----
+Africa_Central(skc0)
+number of positive ground clauses: 1
+
+
+Relevant negative ground clauses:
+-----
+-Oceania(skc0)
+-New_Guinea(skc0)
+-West_Germany(skc0)
+-Czechoslovakia(skc0)
+-Asia_Central(skc0)
+-Yugoslavia(skc0)
+-Africa_Western(skc0)
+-Africa_Eastern(skc0)
+-USSR(skc0)
+-Asia_Western(skc0)
+-Caribbean_Region(skc0)
+-European_Union(skc0)
+-Arctic_Regions(skc0)
+-Central_America(skc0)
+-Asia(skc0)
+-Ancient_Lands(skc0)
+-Middle_East(skc0)
+-Other_regions(skc0)
+-South_America(skc0)
+-Africa_Northern(skc0)
+-Africa_Southern(skc0)
+-Commonwealth_of_Independent_States(skc0)
+-Latin_America(skc0)
+-Africa(skc0)
+-Americas(skc0)
+-Geographical_Regions(skc0)
+-Atlantic_Islands(skc0)
+-East_Germany(skc0)
+-Historical_Geographic_Locations(skc0)
+-Indian_Ocean_Islands(skc0)
+-Pacific_Islands(skc0)
+-Europe(skc0)
+-Asia_Southeastern(skc0)
+-Oceans_and_Seas(skc0)
+-Antarctic_Regions(skc0)
+-Far_East(skc0)
+-North_America(skc0)
+-Australia(skc0)
+number of negative ground clauses: 38
+
+
+Generating solutions
+Selecting subset-minimal ones
+Solutions: 
+===========
+
+Africa_Central SUBCLASS_OF Far_East
+------------
+Africa_Central SUBCLASS_OF Yugoslavia
+------------
+Africa_Central SUBCLASS_OF Africa
+------------
+Africa_Central SUBCLASS_OF Antarctic_Regions
+------------
+Africa_Central SUBCLASS_OF Latin_America
+------------
+Africa_Central SUBCLASS_OF Africa_Eastern
+------------
+Africa_Central SUBCLASS_OF New_Guinea
+------------
+Africa_Central SUBCLASS_OF West_Germany
+------------
+Africa_Central SUBCLASS_OF Asia_Central
+------------
+Africa_Central SUBCLASS_OF Europe
+------------
+Africa_Central SUBCLASS_OF Other_regions
+------------
+Africa_Central SUBCLASS_OF Africa_Western
+------------
+Africa_Central SUBCLASS_OF USSR
+------------
+Africa_Central SUBCLASS_OF Atlantic_Islands
+------------
+Africa_Central SUBCLASS_OF Indian_Ocean_Islands
+------------
+Africa_Central SUBCLASS_OF Central_America
+------------
+Africa_Central SUBCLASS_OF North_America
+------------
+Africa_Central SUBCLASS_OF Czechoslovakia
+------------
+Africa_Central SUBCLASS_OF Asia_Western
+------------
+Africa_Central SUBCLASS_OF South_America
+------------
+Africa_Central SUBCLASS_OF Geographical_Regions
+------------
+Africa_Central SUBCLASS_OF Asia
+------------
+Africa_Central SUBCLASS_OF Africa_Southern
+------------
+Africa_Central SUBCLASS_OF Oceans_and_Seas
+------------
+Africa_Central SUBCLASS_OF Historical_Geographic_Locations
+------------
+Africa_Central SUBCLASS_OF Asia_Southeastern
+------------
+Africa_Central SUBCLASS_OF European_Union
+------------
+Africa_Central SUBCLASS_OF Africa_Northern
+------------
+Africa_Central SUBCLASS_OF East_Germany
+------------
+Africa_Central SUBCLASS_OF Caribbean_Region
+------------
+Africa_Central SUBCLASS_OF Ancient_Lands
+------------
+Africa_Central SUBCLASS_OF Americas
+------------
+Africa_Central SUBCLASS_OF Australia
+------------
+Africa_Central SUBCLASS_OF Arctic_Regions
+------------
+Africa_Central SUBCLASS_OF Middle_East
+------------
+Africa_Central SUBCLASS_OF Pacific_Islands
+------------
+Africa_Central SUBCLASS_OF Oceania
+------------
+Africa_Central SUBCLASS_OF Commonwealth_of_Independent_States
+------------
+number of solutions: 38
+size of largest solution: Optional[1]
+size of largest axiom: Optional[2]
+
+real	0m0.186s
+user	0m0.322s
+sys	0m0.012s

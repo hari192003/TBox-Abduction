@@ -1,0 +1,43 @@
+begin_problem(ont260925374491203).
+
+list_of_descriptions.
+name({* urn:unnamed:ontology#ont260925374491203 *}).
+author({* left empty as auto-generated from OWL file *}).
+status(satisfiable).
+description({* obtained from OWL file C:\Users\Hari\Desktop\Bachelor Thesis\Datasets\Skin Physiology Ontology 2.0.owl through its standard FOL translation *}).
+end_of_list.
+
+list_of_symbols.
+predicates[
+  (A_TOP, 1),
+  (A_TOP__COPY__, 1),
+  (HairGrowthPhase, 1),
+  (HairGrowthPhase__COPY__, 1),
+  (PhysiologicalProcess, 1),
+  (PhysiologicalProcess__COPY__, 1),
+  (Telogen, 1),
+  (Telogen__COPY__, 1),
+(Occurrent__COPY__, 1), 
+(Telogen, 1)
+].
+end_of_list.
+
+list_of_formulae(axioms).
+formula(forall([X1], implies(HairGrowthPhase(X1), PhysiologicalProcess(X1)))).
+formula(forall([X1], implies(Telogen(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Telogen(X1), HairGrowthPhase(X1)))).
+formula(forall([X1], implies(Telogen__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(PhysiologicalProcess__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(HairGrowthPhase(X1), A_TOP(X1)))).
+formula(forall([X1], implies(HairGrowthPhase__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(HairGrowthPhase__COPY__(X1), PhysiologicalProcess__COPY__(X1)))).
+formula(forall([X1], implies(PhysiologicalProcess(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Telogen__COPY__(X1), HairGrowthPhase__COPY__(X1)))).
+end_of_list.
+
+list_of_formulae(conjectures).
+formula(forall([X1], implies(Telogen(X1), Occurrent__COPY__(X1)))).
+end_of_list.
+
+end_problem.
+

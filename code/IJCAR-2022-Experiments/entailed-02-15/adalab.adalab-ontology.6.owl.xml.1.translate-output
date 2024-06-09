@@ -1,0 +1,23 @@
+Using method random_entailed for creating abduction problems
+Using file ../entailed-02-15//adalab.adalab-ontology.6.owl.xml.1.dfg for output
+translating file ../bioportal-30.03.2017-owlxml//adalab.adalab-ontology.6.owl.xml
+Use random_entailed
+Loading ontology..
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+done loading ontology.
+Building observation from entailed CIs
+Removing SubClassOf(<http://purl.obolibrary.org/obo/INO_0000001> <http://purl.obolibrary.org/obo/BFO_0000015>)
+Observation: SubClassOf(<http://purl.obolibrary.org/obo/PW_0000013> <http://purl.obolibrary.org/obo/BFO_0000015>)
+Ontology size: 521
+Converting...
+Module size: 514/521
+Ignored axioms (since not in EL): 0
+Ontology(OntologyID(OntologyIRI(<urn:unnamed:ontology#ont2196638024025667>) VersionIRI(<null>))) [Axioms: 1012 Logical Axioms: 1012] First 20 axioms: {SubClassOf(<http://purl.obolibrary.org/obo/GO_0043982> <http://purl.obolibrary.org/obo/GO_0043967>) SubClassOf(<http://purl.obolibrary.org/obo/GO_0017198> <http://purl.obolibrary.org/obo/GO_0006474>) SubClassOf(<http://purl.obolibrary.org/obo/INO_0000235> <http://purl.obolibrary.org/obo/INO_0000002>) SubClassOf(<http://purl.obolibrary.org/obo/GO_0061569> <http://purl.obolibrary.org/obo/GO_0006165>) SubClassOf(<http://purl.obolibrary.org/obo/MI_0557> <A_TOP>) SubClassOf(<http://purl.obolibrary.org/obo/PR_000000001> <A_TOP>) SubClassOf(<http://purl.obolibrary.org/obo/GO_0043987> <A_TOP>) SubClassOf(<http://purl.obolibrary.org/obo/GO_0018218> <A_TOP>) SubClassOf(<http://purl.obolibrary.org/obo/GO_0071620> <http://purl.obolibrary.org/obo/GO_0070816>) SubClassOf(<http://purl.obolibrary.org/obo/GO_0044154> <http://purl.obolibrary.org/obo/GO_0043966>) SubClassOf(<http://purl.obolibrary.org/obo/INO_0000073> <A_TOP>) SubClassOf(<http://purl.obolibrary.org/obo/GO_0018105> <http://purl.obolibrary.org/obo/GO_0006468>) SubClassOf(<http://purl.obolibrary.org/obo/GO_0046835> <http://purl.obolibrary.org/obo/GO_0016310>) SubClassOf(<http://purl.obolibrary.org/obo/INO_0000081> <A_TOP>) SubClassOf(<http://purl.obolibrary.org/obo/GO_0070375> <A_TOP>) SubClassOf(<http://purl.obolibrary.org/obo/MI_1140> <http://purl.obolibrary.org/obo/MI_0414>) SubClassOf(<http://purl.obolibrary.org/obo/GO_0061569> <A_TOP>) SubClassOf(<http://purl.obolibrary.org/obo/INO_0000096> <A_TOP>) SubClassOf(<http://purl.obolibrary.org/obo/INO_0000076> <http://purl.obolibrary.org/obo/MI_0414>) SubClassOf(<http://purl.obolibrary.org/obo/MI_0216> <http://purl.obolibrary.org/obo/MI_0211>) }
+Ontology(OntologyID(OntologyIRI(<urn:unnamed:ontology#ont2196638024025667>) VersionIRI(<null>))) [Axioms: 1012 Logical Axioms: 1012] First 20 axioms: {SubClassOf(<http://purl.obolibrary.org/obo/GO_0043982> <http://purl.obolibrary.org/obo/GO_0043967>) SubClassOf(<http://purl.obolibrary.org/obo/GO_0017198> <http://purl.obolibrary.org/obo/GO_0006474>) SubClassOf(<http://purl.obolibrary.org/obo/INO_0000235> <http://purl.obolibrary.org/obo/INO_0000002>) SubClassOf(<http://purl.obolibrary.org/obo/GO_0061569> <http://purl.obolibrary.org/obo/GO_0006165>) SubClassOf(<http://purl.obolibrary.org/obo/MI_0557> <A_TOP>) SubClassOf(<http://purl.obolibrary.org/obo/PR_000000001> <A_TOP>) SubClassOf(<http://purl.obolibrary.org/obo/GO_0043987> <A_TOP>) SubClassOf(<http://purl.obolibrary.org/obo/GO_0018218> <A_TOP>) SubClassOf(<http://purl.obolibrary.org/obo/GO_0071620> <http://purl.obolibrary.org/obo/GO_0070816>) SubClassOf(<http://purl.obolibrary.org/obo/GO_0044154> <http://purl.obolibrary.org/obo/GO_0043966>) SubClassOf(<http://purl.obolibrary.org/obo/INO_0000073> <A_TOP>) SubClassOf(<http://purl.obolibrary.org/obo/GO_0018105> <http://purl.obolibrary.org/obo/GO_0006468>) SubClassOf(<http://purl.obolibrary.org/obo/GO_0046835> <http://purl.obolibrary.org/obo/GO_0016310>) SubClassOf(<http://purl.obolibrary.org/obo/INO_0000081> <A_TOP>) SubClassOf(<http://purl.obolibrary.org/obo/GO_0070375> <A_TOP>) SubClassOf(<http://purl.obolibrary.org/obo/MI_1140> <http://purl.obolibrary.org/obo/MI_0414>) SubClassOf(<http://purl.obolibrary.org/obo/GO_0061569> <A_TOP>) SubClassOf(<http://purl.obolibrary.org/obo/INO_0000096> <A_TOP>) SubClassOf(<http://purl.obolibrary.org/obo/INO_0000076> <http://purl.obolibrary.org/obo/MI_0414>) SubClassOf(<http://purl.obolibrary.org/obo/MI_0216> <http://purl.obolibrary.org/obo/MI_0211>) }
+Done.
+
+real	0m1.525s
+user	0m3.664s
+sys	0m0.109s

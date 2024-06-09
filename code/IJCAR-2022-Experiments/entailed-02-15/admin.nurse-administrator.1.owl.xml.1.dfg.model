@@ -1,0 +1,196 @@
+begin_problem(Unknown).
+
+list_of_descriptions.
+name({*Clauses_generated_by_SPASS*}).
+author({*SPASS V 3.9 *}).
+status(unknown).
+description({* obtained from OWL file ../bioportal-30.03.2017-owlxml//admin.nurse-administrator.1.owl.xml through its standard FOL translation *}).
+end_of_list.
+
+list_of_symbols.
+  functions[(skc0, 0)].
+  predicates[(advises, 2), (guides, 2), (shapes, 2), (suggestsTo, 2), (A_TOP, 1), (A_TOP__COPY__, 1), (Care_Plan, 1), (Care_Plan__COPY__, 1), (Case_Conference, 1), (Case_Conference__COPY__, 1), (Bed_Occupancy, 1), (Bed_Occupancy__COPY__, 1), (Clinical_Hand_Over, 1), (Clinical_Hand_Over__COPY__, 1), (Clinical_Risk, 1), (Clinical_Risk__COPY__, 1), 
+	(Drug_Theraputics, 1), (Drug_Theraputics__COPY__, 1), (Falls, 1), (Falls__COPY__, 1), (Family_Meeting, 1), (Family_Meeting__COPY__, 1), (Meetings, 1), (Meetings__COPY__, 1), (Multi_Disciplinary_Teams, 1), (Multi_Disciplinary_Teams__COPY__, 1), (Nutrition, 1), (Nutrition__COPY__, 1), (Operational_Manager, 1), (Operational_Manager__COPY__, 1), (Planning, 1), (Planning__COPY__, 1), 
+	(Quality, 1), (Quality__COPY__, 1), (Staff_Meetings, 1), (Staff_Meetings__COPY__, 1), (Manual_handeling, 1)].
+end_of_list.
+
+list_of_clauses(axioms, cnf).
+  clause( || A_TOP__COPY__(u) shapes(v,u) -> A_TOP__COPY__(v),67).
+  clause( || A_TOP(u) shapes(v,u) -> A_TOP(v),71).
+  clause( || A_TOP(u) suggestsTo(v,u) -> A_TOP(v),61).
+  clause( || A_TOP(u) advises(v,u) -> A_TOP(v),64).
+  clause( || A_TOP(u) guides(v,u) -> A_TOP(v),68).
+  clause( || A_TOP__COPY__(u) suggestsTo(v,u) -> A_TOP__COPY__(v),73).
+  clause( || A_TOP__COPY__(u) advises(v,u) -> A_TOP__COPY__(v),75).
+  clause( || A_TOP__COPY__(u) guides(v,u) -> A_TOP__COPY__(v),76).
+  clause( || A_TOP__COPY__(u) shapes(v,u) -> Clinical_Risk__COPY__(v),77).
+  clause( || A_TOP(u) shapes(v,u) -> Clinical_Risk(v),80).
+  clause( || A_TOP(u) advises(v,u) -> Clinical_Risk(v),65).
+  clause( || A_TOP__COPY__(u) advises(v,u) -> Clinical_Risk__COPY__(v),78).
+  clause( || A_TOP(u) suggestsTo(v,u) -> Multi_Disciplinary_Teams(v),62).
+  clause( || A_TOP__COPY__(u) suggestsTo(v,u) -> Multi_Disciplinary_Teams__COPY__(v),66).
+  clause( || A_TOP__COPY__(u) shapes(v,u) -> Falls__COPY__(v),63).
+  clause( || A_TOP(u) shapes(v,u) -> Quality(v),69).
+  clause( || A_TOP__COPY__(u) shapes(v,u) -> Quality__COPY__(v),72).
+  clause( || A_TOP(u) shapes(v,u) -> Falls(v),74).
+  clause( || A_TOP(u) guides(v,u) -> Planning(v),70).
+  clause( || A_TOP__COPY__(u) guides(v,u) -> Planning__COPY__(v),79).
+  clause( || Meetings__COPY__(u) -> A_TOP__COPY__(u),57).
+  clause( || Meetings(u) -> A_TOP(u),29).
+  clause( || Clinical_Risk(u) -> A_TOP(u),42).
+  clause( || Clinical_Risk__COPY__(u) -> A_TOP__COPY__(u),58).
+  clause( || Multi_Disciplinary_Teams__COPY__(u) -> A_TOP__COPY__(u),30).
+  clause( || Multi_Disciplinary_Teams(u) -> A_TOP(u),59).
+  clause( || Falls__COPY__(u) -> A_TOP__COPY__(u),7).
+  clause( || Case_Conference(u) -> A_TOP(u),13).
+  clause( || Falls(u) -> A_TOP(u),14).
+  clause( || Quality(u) -> A_TOP(u),16).
+  clause( || Case_Conference__COPY__(u) -> A_TOP__COPY__(u),31).
+  clause( || Planning__COPY__(u) -> A_TOP__COPY__(u),34).
+  clause( || Planning(u) -> A_TOP(u),35).
+  clause( || Quality__COPY__(u) -> A_TOP__COPY__(u),52).
+  clause( || Drug_Theraputics(u) -> A_TOP(u),8).
+  clause( || Bed_Occupancy__COPY__(u) -> A_TOP__COPY__(u),17).
+  clause( || Staff_Meetings(u) -> A_TOP(u),18).
+  clause( || Family_Meeting(u) -> A_TOP(u),19).
+  clause( || Bed_Occupancy(u) -> A_TOP(u),20).
+  clause( || Family_Meeting__COPY__(u) -> A_TOP__COPY__(u),21).
+  clause( || Operational_Manager(u) -> A_TOP(u),38).
+  clause( || Care_Plan__COPY__(u) -> A_TOP__COPY__(u),40).
+  clause( || Nutrition__COPY__(u) -> A_TOP__COPY__(u),45).
+  clause( || Care_Plan(u) -> A_TOP(u),46).
+  clause( || Operational_Manager__COPY__(u) -> A_TOP__COPY__(u),48).
+  clause( || Drug_Theraputics__COPY__(u) -> A_TOP__COPY__(u),49).
+  clause( || Staff_Meetings__COPY__(u) -> A_TOP__COPY__(u),54).
+  clause( || Clinical_Hand_Over(u) -> A_TOP(u),55).
+  clause( || Clinical_Hand_Over__COPY__(u) -> A_TOP__COPY__(u),56).
+  clause( || Nutrition(u) -> A_TOP(u),60).
+  clause( || Clinical_Risk__COPY__(u) -> Meetings__COPY__(u),12).
+  clause( || Multi_Disciplinary_Teams__COPY__(u) -> Meetings__COPY__(u),26).
+  clause( || Quality__COPY__(u) -> Meetings__COPY__(u),28).
+  clause( || Planning__COPY__(u) -> Meetings__COPY__(u),44).
+  clause( || Bed_Occupancy__COPY__(u) -> Meetings__COPY__(u),9).
+  clause( || Family_Meeting__COPY__(u) -> Meetings__COPY__(u),33).
+  clause( || Staff_Meetings__COPY__(u) -> Meetings__COPY__(u),36).
+  clause( || Operational_Manager__COPY__(u) -> Meetings__COPY__(u),37).
+  clause( || Clinical_Risk(u) -> Meetings(u),51).
+  clause( || Multi_Disciplinary_Teams(u) -> Meetings(u),53).
+  clause( || Quality(u) -> Meetings(u),11).
+  clause( || Planning(u) -> Meetings(u),43).
+  clause( || Bed_Occupancy(u) -> Meetings(u),23).
+  clause( || Staff_Meetings(u) -> Meetings(u),25).
+  clause( || Family_Meeting(u) -> Meetings(u),39).
+  clause( || Operational_Manager(u) -> Meetings(u),47).
+  clause( || Falls(u) -> Clinical_Risk(u),22).
+  clause( || Falls__COPY__(u) -> Clinical_Risk__COPY__(u),41).
+  clause( || Nutrition(u) -> Clinical_Risk(u),3).
+  clause( || Drug_Theraputics__COPY__(u) -> Clinical_Risk__COPY__(u),5).
+  clause( || Clinical_Hand_Over(u) -> Clinical_Risk(u),6).
+  clause( || Clinical_Hand_Over__COPY__(u) -> Clinical_Risk__COPY__(u),15).
+  clause( || Nutrition__COPY__(u) -> Clinical_Risk__COPY__(u),24).
+  clause( || Drug_Theraputics(u) -> Clinical_Risk(u),50).
+  clause( || Case_Conference__COPY__(u) -> Multi_Disciplinary_Teams__COPY__(u),4).
+  clause( || Case_Conference(u) -> Multi_Disciplinary_Teams(u),10).
+  clause( || Care_Plan__COPY__(u) -> Case_Conference__COPY__(u),27).
+  clause( || Care_Plan(u) -> Case_Conference(u),32).
+end_of_list.
+
+list_of_clauses(conjectures, cnf).
+  clause( || Clinical_Hand_Over__COPY__(u) guides(skc0,u) -> ,172).
+  clause( || Staff_Meetings__COPY__(u) guides(skc0,u) -> ,171).
+  clause( || Drug_Theraputics__COPY__(u) guides(skc0,u) -> ,170).
+  clause( || Operational_Manager__COPY__(u) guides(skc0,u) -> ,169).
+  clause( || Nutrition__COPY__(u) guides(skc0,u) -> ,168).
+  clause( || Care_Plan__COPY__(u) guides(skc0,u) -> ,167).
+  clause( || Family_Meeting__COPY__(u) guides(skc0,u) -> ,166).
+  clause( || Bed_Occupancy__COPY__(u) guides(skc0,u) -> ,165).
+  clause( || Quality__COPY__(u) guides(skc0,u) -> ,164).
+  clause( || Planning__COPY__(u) guides(skc0,u) -> ,163).
+  clause( || Case_Conference__COPY__(u) guides(skc0,u) -> ,162).
+  clause( || Falls__COPY__(u) guides(skc0,u) -> ,161).
+  clause( || Multi_Disciplinary_Teams__COPY__(u) guides(skc0,u) -> ,160).
+  clause( || Clinical_Risk__COPY__(u) guides(skc0,u) -> ,159).
+  clause( || Meetings__COPY__(u) guides(skc0,u) -> ,158).
+  clause( || Clinical_Hand_Over__COPY__(u) suggestsTo(skc0,u) -> ,153).
+  clause( || Staff_Meetings__COPY__(u) suggestsTo(skc0,u) -> ,152).
+  clause( || Drug_Theraputics__COPY__(u) suggestsTo(skc0,u) -> ,151).
+  clause( || Operational_Manager__COPY__(u) suggestsTo(skc0,u) -> ,150).
+  clause( || Nutrition__COPY__(u) suggestsTo(skc0,u) -> ,149).
+  clause( || Care_Plan__COPY__(u) suggestsTo(skc0,u) -> ,148).
+  clause( || Family_Meeting__COPY__(u) suggestsTo(skc0,u) -> ,147).
+  clause( || Bed_Occupancy__COPY__(u) suggestsTo(skc0,u) -> ,146).
+  clause( || Quality__COPY__(u) suggestsTo(skc0,u) -> ,145).
+  clause( || Planning__COPY__(u) suggestsTo(skc0,u) -> ,144).
+  clause( || Case_Conference__COPY__(u) suggestsTo(skc0,u) -> ,143).
+  clause( || Falls__COPY__(u) suggestsTo(skc0,u) -> ,142).
+  clause( || Multi_Disciplinary_Teams__COPY__(u) suggestsTo(skc0,u) -> ,141).
+  clause( || Clinical_Risk__COPY__(u) suggestsTo(skc0,u) -> ,140).
+  clause( || Meetings__COPY__(u) suggestsTo(skc0,u) -> ,139).
+  clause( || Clinical_Hand_Over__COPY__(u) advises(skc0,u) -> ,134).
+  clause( || Staff_Meetings__COPY__(u) advises(skc0,u) -> ,133).
+  clause( || Drug_Theraputics__COPY__(u) advises(skc0,u) -> ,132).
+  clause( || Operational_Manager__COPY__(u) advises(skc0,u) -> ,131).
+  clause( || Nutrition__COPY__(u) advises(skc0,u) -> ,130).
+  clause( || Care_Plan__COPY__(u) advises(skc0,u) -> ,129).
+  clause( || Family_Meeting__COPY__(u) advises(skc0,u) -> ,128).
+  clause( || Bed_Occupancy__COPY__(u) advises(skc0,u) -> ,127).
+  clause( || Quality__COPY__(u) advises(skc0,u) -> ,126).
+  clause( || Planning__COPY__(u) advises(skc0,u) -> ,125).
+  clause( || Case_Conference__COPY__(u) advises(skc0,u) -> ,124).
+  clause( || Falls__COPY__(u) advises(skc0,u) -> ,123).
+  clause( || Multi_Disciplinary_Teams__COPY__(u) advises(skc0,u) -> ,122).
+  clause( || Clinical_Risk__COPY__(u) advises(skc0,u) -> ,121).
+  clause( || Meetings__COPY__(u) advises(skc0,u) -> ,120).
+  clause( || Clinical_Hand_Over__COPY__(u) shapes(skc0,u) -> ,115).
+  clause( || Staff_Meetings__COPY__(u) shapes(skc0,u) -> ,114).
+  clause( || Drug_Theraputics__COPY__(u) shapes(skc0,u) -> ,113).
+  clause( || Operational_Manager__COPY__(u) shapes(skc0,u) -> ,112).
+  clause( || Nutrition__COPY__(u) shapes(skc0,u) -> ,111).
+  clause( || Care_Plan__COPY__(u) shapes(skc0,u) -> ,110).
+  clause( || Family_Meeting__COPY__(u) shapes(skc0,u) -> ,109).
+  clause( || Bed_Occupancy__COPY__(u) shapes(skc0,u) -> ,108).
+  clause( || Quality__COPY__(u) shapes(skc0,u) -> ,107).
+  clause( || Planning__COPY__(u) shapes(skc0,u) -> ,106).
+  clause( || Case_Conference__COPY__(u) shapes(skc0,u) -> ,105).
+  clause( || Falls__COPY__(u) shapes(skc0,u) -> ,104).
+  clause( || Multi_Disciplinary_Teams__COPY__(u) shapes(skc0,u) -> ,103).
+  clause( || Clinical_Risk__COPY__(u) shapes(skc0,u) -> ,102).
+  clause( || Meetings__COPY__(u) shapes(skc0,u) -> ,101).
+  clause( || Care_Plan__COPY__(skc0) -> ,100).
+  clause( || A_TOP__COPY__(u) guides(skc0,u) -> ,98).
+  clause( || A_TOP__COPY__(u) suggestsTo(skc0,u) -> ,96).
+  clause( || A_TOP__COPY__(u) advises(skc0,u) -> ,94).
+  clause( || A_TOP__COPY__(u) shapes(skc0,u) -> ,93).
+  clause( || Case_Conference__COPY__(skc0) -> ,95).
+  clause( || Nutrition__COPY__(skc0) -> ,92).
+  clause( || Clinical_Hand_Over__COPY__(skc0) -> ,91).
+  clause( || Drug_Theraputics__COPY__(skc0) -> ,90).
+  clause( || Falls__COPY__(skc0) -> ,89).
+  clause( || Operational_Manager__COPY__(skc0) -> ,88).
+  clause( || Staff_Meetings__COPY__(skc0) -> ,87).
+  clause( || Family_Meeting__COPY__(skc0) -> ,86).
+  clause( || Bed_Occupancy__COPY__(skc0) -> ,85).
+  clause( || Planning__COPY__(skc0) -> ,84).
+  clause( || Quality__COPY__(skc0) -> ,83).
+  clause( || Multi_Disciplinary_Teams__COPY__(skc0) -> ,82).
+  clause( || Clinical_Risk__COPY__(skc0) -> ,81).
+  clause( || Meetings__COPY__(skc0) -> ,2).
+  clause( ||  -> Manual_handeling(skc0),1).
+end_of_list.
+
+list_of_settings(SPASS).
+{*
+
+set_flag(Ordering,0).
+set_flag(Select,1).
+set_flag(RInput,0).
+set_flag(Splits,0).
+
+set_precedence((advises,1,l),(guides,1,l),(shapes,1,l),(suggestsTo,1,l),(A_TOP,1,l),(A_TOP__COPY__,1,l),(Care_Plan,1,l),(Care_Plan__COPY__,1,l),(Case_Conference,1,l),(Case_Conference__COPY__,1,l),(Bed_Occupancy,1,l),(Bed_Occupancy__COPY__,1,l),(Clinical_Hand_Over,1,l),(Clinical_Hand_Over__COPY__,1,l),(Clinical_Risk,1,l),(Clinical_Risk__COPY__,1,l),(Drug_Theraputics,1,l),
+	(Drug_Theraputics__COPY__,1,l),(Falls,1,l),(Falls__COPY__,1,l),(Family_Meeting,1,l),(Family_Meeting__COPY__,1,l),(Meetings,1,l),(Meetings__COPY__,1,l),(Multi_Disciplinary_Teams,1,l),(Multi_Disciplinary_Teams__COPY__,1,l),(Nutrition,1,l),(Nutrition__COPY__,1,l),(Operational_Manager,1,l),(Operational_Manager__COPY__,1,l),(Planning,1,l),(Planning__COPY__,1,l),(Quality,1,l),(Quality__COPY__,1,l),
+	(Staff_Meetings,1,l),(Staff_Meetings__COPY__,1,l),(Manual_handeling,1,l),(skc0,1,l)).*}
+end_of_list.
+
+
+end_problem.
+

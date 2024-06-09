@@ -1,0 +1,1977 @@
+begin_problem(ont2196491220333472).
+
+list_of_descriptions.
+name({* urn:unnamed:ontology#ont2196491220333472 *}).
+author({* left empty as auto-generated from OWL file *}).
+status(satisfiable).
+description({* obtained from OWL file ../bioportal-30.03.2017-owlxml//obiws.bioinformatics-web-service-ontology.2.owl.xml through its standard FOL translation *}).
+end_of_list.
+
+list_of_symbols.
+predicates[
+  (BFO_0000050, 2),
+  (BFO_0000051, 2),
+  (BFO_0000052, 2),
+  (BFO_0000053, 2),
+  (BFO_0000055, 2),
+  (BFO_0000057, 2),
+  (BFO_0000058, 2),
+  (BFO_0000059, 2),
+  (IAO_0000136, 2),
+  (IAO_0000219, 2),
+  (OBI_0000293, 2),
+  (OBI_0000295, 2),
+  (OBI_0000299, 2),
+  (OBI_0000417, 2),
+  (OBIws_0000130, 2),
+  (OBIws_0000132, 2),
+  (OBIws_0000137, 2),
+  (OBIws_0000138, 2),
+  (A_TOP, 1),
+  (A_TOP__COPY__, 1),
+  (_A1, 1),
+  (_A10, 1),
+  (_A10__COPY__, 1),
+  (_A11, 1),
+  (_A11__COPY__, 1),
+  (_A12, 1),
+  (_A12__COPY__, 1),
+  (_A13, 1),
+  (_A13__COPY__, 1),
+  (_A14, 1),
+  (_A14__COPY__, 1),
+  (_A15, 1),
+  (_A15__COPY__, 1),
+  (_A16, 1),
+  (_A16__COPY__, 1),
+  (_A17, 1),
+  (_A17__COPY__, 1),
+  (_A1__COPY__, 1),
+  (_A2, 1),
+  (_A2__COPY__, 1),
+  (_A3, 1),
+  (_A3__COPY__, 1),
+  (_A4, 1),
+  (_A4__COPY__, 1),
+  (_A5, 1),
+  (_A5__COPY__, 1),
+  (_A6, 1),
+  (_A6__COPY__, 1),
+  (_A7, 1),
+  (_A7__COPY__, 1),
+  (_A8, 1),
+  (_A8__COPY__, 1),
+  (_A9, 1),
+  (_A9__COPY__, 1),
+  (BFO_0000001, 1),
+  (BFO_0000001__COPY__, 1),
+  (BFO_0000002, 1),
+  (BFO_0000002__COPY__, 1),
+  (BFO_0000003, 1),
+  (BFO_0000003__COPY__, 1),
+  (BFO_0000004, 1),
+  (BFO_0000004__COPY__, 1),
+  (BFO_0000005, 1),
+  (BFO_0000005__COPY__, 1),
+  (BFO_0000007, 1),
+  (BFO_0000007__COPY__, 1),
+  (BFO_0000017, 1),
+  (BFO_0000017__COPY__, 1),
+  (BFO_0000020, 1),
+  (BFO_0000020__COPY__, 1),
+  (BFO_0000023, 1),
+  (BFO_0000023__COPY__, 1),
+  (BFO_0000031, 1),
+  (BFO_0000031__COPY__, 1),
+  (BFO_0000040, 1),
+  (BFO_0000040__COPY__, 1),
+  (CHEBI_16991, 1),
+  (CHEBI_16991__COPY__, 1),
+  (CHEBI_23367, 1),
+  (CHEBI_23367__COPY__, 1),
+  (CHEBI_33696, 1),
+  (CHEBI_33696__COPY__, 1),
+  (CHEBI_33697, 1),
+  (CHEBI_33697__COPY__, 1),
+  (CHEBI_33709, 1),
+  (CHEBI_33709__COPY__, 1),
+  (CHEBI_33839, 1),
+  (CHEBI_33839__COPY__, 1),
+  (IAO_0000005, 1),
+  (IAO_0000005__COPY__, 1),
+  (IAO_0000007, 1),
+  (IAO_0000007__COPY__, 1),
+  (IAO_0000009, 1),
+  (IAO_0000009__COPY__, 1),
+  (IAO_0000010, 1),
+  (IAO_0000010__COPY__, 1),
+  (IAO_0000027, 1),
+  (IAO_0000027__COPY__, 1),
+  (IAO_0000028, 1),
+  (IAO_0000028__COPY__, 1),
+  (IAO_0000030, 1),
+  (IAO_0000030__COPY__, 1),
+  (IAO_0000033, 1),
+  (IAO_0000033__COPY__, 1),
+  (IAO_0000064, 1),
+  (IAO_0000064__COPY__, 1),
+  (IAO_0000078, 1),
+  (IAO_0000078__COPY__, 1),
+  (IAO_0000098, 1),
+  (IAO_0000098__COPY__, 1),
+  (IAO_0000100, 1),
+  (IAO_0000100__COPY__, 1),
+  (IAO_0000102, 1),
+  (IAO_0000102__COPY__, 1),
+  (IAO_0000104, 1),
+  (IAO_0000104__COPY__, 1),
+  (IAO_0000109, 1),
+  (IAO_0000109__COPY__, 1),
+  (IAO_0000300, 1),
+  (IAO_0000300__COPY__, 1),
+  (IAO_0000310, 1),
+  (IAO_0000310__COPY__, 1),
+  (IAO_0000429, 1),
+  (IAO_0000429__COPY__, 1),
+  (IAO_0000577, 1),
+  (IAO_0000577__COPY__, 1),
+  (NCBITaxon_10239, 1),
+  (NCBITaxon_10239__COPY__, 1),
+  (NCBITaxon_117570, 1),
+  (NCBITaxon_117570__COPY__, 1),
+  (NCBITaxon_117571, 1),
+  (NCBITaxon_117571__COPY__, 1),
+  (NCBITaxon_2, 1),
+  (NCBITaxon_207598, 1),
+  (NCBITaxon_207598__COPY__, 1),
+  (NCBITaxon_2157, 1),
+  (NCBITaxon_2157__COPY__, 1),
+  (NCBITaxon_2759, 1),
+  (NCBITaxon_2759__COPY__, 1),
+  (NCBITaxon_2__COPY__, 1),
+  (NCBITaxon_314146, 1),
+  (NCBITaxon_314146__COPY__, 1),
+  (NCBITaxon_314293, 1),
+  (NCBITaxon_314293__COPY__, 1),
+  (NCBITaxon_314295, 1),
+  (NCBITaxon_314295__COPY__, 1),
+  (NCBITaxon_32523, 1),
+  (NCBITaxon_32523__COPY__, 1),
+  (NCBITaxon_32524, 1),
+  (NCBITaxon_32524__COPY__, 1),
+  (NCBITaxon_32525, 1),
+  (NCBITaxon_32525__COPY__, 1),
+  (NCBITaxon_33154, 1),
+  (NCBITaxon_33154__COPY__, 1),
+  (NCBITaxon_33208, 1),
+  (NCBITaxon_33208__COPY__, 1),
+  (NCBITaxon_33213, 1),
+  (NCBITaxon_33213__COPY__, 1),
+  (NCBITaxon_33316, 1),
+  (NCBITaxon_33316__COPY__, 1),
+  (NCBITaxon_33511, 1),
+  (NCBITaxon_33511__COPY__, 1),
+  (NCBITaxon_376913, 1),
+  (NCBITaxon_376913__COPY__, 1),
+  (NCBITaxon_40674, 1),
+  (NCBITaxon_40674__COPY__, 1),
+  (NCBITaxon_6072, 1),
+  (NCBITaxon_6072__COPY__, 1),
+  (NCBITaxon_7711, 1),
+  (NCBITaxon_7711__COPY__, 1),
+  (NCBITaxon_7742, 1),
+  (NCBITaxon_7742__COPY__, 1),
+  (NCBITaxon_7776, 1),
+  (NCBITaxon_7776__COPY__, 1),
+  (NCBITaxon_8287, 1),
+  (NCBITaxon_8287__COPY__, 1),
+  (NCBITaxon_89593, 1),
+  (NCBITaxon_89593__COPY__, 1),
+  (NCBITaxon_9347, 1),
+  (NCBITaxon_9347__COPY__, 1),
+  (NCBITaxon_9443, 1),
+  (NCBITaxon_9443__COPY__, 1),
+  (NCBITaxon_9526, 1),
+  (NCBITaxon_9526__COPY__, 1),
+  (NCBITaxon_9604, 1),
+  (NCBITaxon_9604__COPY__, 1),
+  (NCBITaxon_9605, 1),
+  (NCBITaxon_9605__COPY__, 1),
+  (NCBITaxon_9606, 1),
+  (NCBITaxon_9606__COPY__, 1),
+  (OBI_0000011, 1),
+  (OBI_0000011__COPY__, 1),
+  (OBI_0000071, 1),
+  (OBI_0000071__COPY__, 1),
+  (OBI_0000245, 1),
+  (OBI_0000245__COPY__, 1),
+  (OBI_0000811, 1),
+  (OBI_0000811__COPY__, 1),
+  (OBI_0000845, 1),
+  (OBI_0000845__COPY__, 1),
+  (OBI_0000852, 1),
+  (OBI_0000852__COPY__, 1),
+  (OBI_0000941, 1),
+  (OBI_0000941__COPY__, 1),
+  (OBI_0000947, 1),
+  (OBI_0000947__COPY__, 1),
+  (OBI_0000973, 1),
+  (OBI_0000973__COPY__, 1),
+  (OBI_0001173, 1),
+  (OBI_0001173__COPY__, 1),
+  (OBI_0001573, 1),
+  (OBI_0001573__COPY__, 1),
+  (OBI_0100026, 1),
+  (OBI_0100026__COPY__, 1),
+  (OBI_0200000, 1),
+  (OBI_0200000__COPY__, 1),
+  (OBI_0200081, 1),
+  (OBI_0200081__COPY__, 1),
+  (OBI_0200166, 1),
+  (OBI_0200166__COPY__, 1),
+  (OBIws_0000001, 1),
+  (OBIws_0000001__COPY__, 1),
+  (OBIws_0000003, 1),
+  (OBIws_0000003__COPY__, 1),
+  (OBIws_0000005, 1),
+  (OBIws_0000005__COPY__, 1),
+  (OBIws_0000007, 1),
+  (OBIws_0000007__COPY__, 1),
+  (OBIws_0000013, 1),
+  (OBIws_0000013__COPY__, 1),
+  (OBIws_0000014, 1),
+  (OBIws_0000014__COPY__, 1),
+  (OBIws_0000015, 1),
+  (OBIws_0000015__COPY__, 1),
+  (OBIws_0000018, 1),
+  (OBIws_0000018__COPY__, 1),
+  (OBIws_0000019, 1),
+  (OBIws_0000019__COPY__, 1),
+  (OBIws_0000020, 1),
+  (OBIws_0000020__COPY__, 1),
+  (OBIws_0000021, 1),
+  (OBIws_0000021__COPY__, 1),
+  (OBIws_0000023, 1),
+  (OBIws_0000023__COPY__, 1),
+  (OBIws_0000024, 1),
+  (OBIws_0000024__COPY__, 1),
+  (OBIws_0000025, 1),
+  (OBIws_0000025__COPY__, 1),
+  (OBIws_0000026, 1),
+  (OBIws_0000026__COPY__, 1),
+  (OBIws_0000027, 1),
+  (OBIws_0000027__COPY__, 1),
+  (OBIws_0000029, 1),
+  (OBIws_0000029__COPY__, 1),
+  (OBIws_0000030, 1),
+  (OBIws_0000030__COPY__, 1),
+  (OBIws_0000031, 1),
+  (OBIws_0000031__COPY__, 1),
+  (OBIws_0000033, 1),
+  (OBIws_0000033__COPY__, 1),
+  (OBIws_0000034, 1),
+  (OBIws_0000034__COPY__, 1),
+  (OBIws_0000036, 1),
+  (OBIws_0000036__COPY__, 1),
+  (OBIws_0000037, 1),
+  (OBIws_0000037__COPY__, 1),
+  (OBIws_0000038, 1),
+  (OBIws_0000038__COPY__, 1),
+  (OBIws_0000039, 1),
+  (OBIws_0000039__COPY__, 1),
+  (OBIws_0000040, 1),
+  (OBIws_0000040__COPY__, 1),
+  (OBIws_0000042, 1),
+  (OBIws_0000042__COPY__, 1),
+  (OBIws_0000043, 1),
+  (OBIws_0000043__COPY__, 1),
+  (OBIws_0000044, 1),
+  (OBIws_0000044__COPY__, 1),
+  (OBIws_0000045, 1),
+  (OBIws_0000045__COPY__, 1),
+  (OBIws_0000048, 1),
+  (OBIws_0000048__COPY__, 1),
+  (OBIws_0000049, 1),
+  (OBIws_0000049__COPY__, 1),
+  (OBIws_0000050, 1),
+  (OBIws_0000050__COPY__, 1),
+  (OBIws_0000051, 1),
+  (OBIws_0000051__COPY__, 1),
+  (OBIws_0000053, 1),
+  (OBIws_0000053__COPY__, 1),
+  (OBIws_0000055, 1),
+  (OBIws_0000055__COPY__, 1),
+  (OBIws_0000056, 1),
+  (OBIws_0000056__COPY__, 1),
+  (OBIws_0000057, 1),
+  (OBIws_0000057__COPY__, 1),
+  (OBIws_0000060, 1),
+  (OBIws_0000060__COPY__, 1),
+  (OBIws_0000061, 1),
+  (OBIws_0000061__COPY__, 1),
+  (OBIws_0000063, 1),
+  (OBIws_0000063__COPY__, 1),
+  (OBIws_0000064, 1),
+  (OBIws_0000064__COPY__, 1),
+  (OBIws_0000066, 1),
+  (OBIws_0000066__COPY__, 1),
+  (OBIws_0000067, 1),
+  (OBIws_0000067__COPY__, 1),
+  (OBIws_0000068, 1),
+  (OBIws_0000068__COPY__, 1),
+  (OBIws_0000069, 1),
+  (OBIws_0000069__COPY__, 1),
+  (OBIws_0000070, 1),
+  (OBIws_0000070__COPY__, 1),
+  (OBIws_0000071, 1),
+  (OBIws_0000071__COPY__, 1),
+  (OBIws_0000072, 1),
+  (OBIws_0000072__COPY__, 1),
+  (OBIws_0000073, 1),
+  (OBIws_0000073__COPY__, 1),
+  (OBIws_0000074, 1),
+  (OBIws_0000074__COPY__, 1),
+  (OBIws_0000075, 1),
+  (OBIws_0000075__COPY__, 1),
+  (OBIws_0000076, 1),
+  (OBIws_0000076__COPY__, 1),
+  (OBIws_0000077, 1),
+  (OBIws_0000077__COPY__, 1),
+  (OBIws_0000078, 1),
+  (OBIws_0000078__COPY__, 1),
+  (OBIws_0000079, 1),
+  (OBIws_0000079__COPY__, 1),
+  (OBIws_0000080, 1),
+  (OBIws_0000080__COPY__, 1),
+  (OBIws_0000081, 1),
+  (OBIws_0000081__COPY__, 1),
+  (OBIws_0000082, 1),
+  (OBIws_0000082__COPY__, 1),
+  (OBIws_0000083, 1),
+  (OBIws_0000083__COPY__, 1),
+  (OBIws_0000084, 1),
+  (OBIws_0000084__COPY__, 1),
+  (OBIws_0000085, 1),
+  (OBIws_0000085__COPY__, 1),
+  (OBIws_0000086, 1),
+  (OBIws_0000086__COPY__, 1),
+  (OBIws_0000088, 1),
+  (OBIws_0000088__COPY__, 1),
+  (OBIws_0000090, 1),
+  (OBIws_0000090__COPY__, 1),
+  (OBIws_0000091, 1),
+  (OBIws_0000091__COPY__, 1),
+  (OBIws_0000092, 1),
+  (OBIws_0000092__COPY__, 1),
+  (OBIws_0000093, 1),
+  (OBIws_0000093__COPY__, 1),
+  (OBIws_0000094, 1),
+  (OBIws_0000094__COPY__, 1),
+  (OBIws_0000095, 1),
+  (OBIws_0000095__COPY__, 1),
+  (OBIws_0000096, 1),
+  (OBIws_0000096__COPY__, 1),
+  (OBIws_0000097, 1),
+  (OBIws_0000097__COPY__, 1),
+  (OBIws_0000099, 1),
+  (OBIws_0000099__COPY__, 1),
+  (OBIws_0000100, 1),
+  (OBIws_0000100__COPY__, 1),
+  (OBIws_0000101, 1),
+  (OBIws_0000101__COPY__, 1),
+  (OBIws_0000102, 1),
+  (OBIws_0000102__COPY__, 1),
+  (OBIws_0000103, 1),
+  (OBIws_0000103__COPY__, 1),
+  (OBIws_0000104, 1),
+  (OBIws_0000104__COPY__, 1),
+  (OBIws_0000106, 1),
+  (OBIws_0000106__COPY__, 1),
+  (OBIws_0000107, 1),
+  (OBIws_0000107__COPY__, 1),
+  (OBIws_0000115, 1),
+  (OBIws_0000115__COPY__, 1),
+  (OBIws_0000116, 1),
+  (OBIws_0000116__COPY__, 1),
+  (OBIws_0000117, 1),
+  (OBIws_0000117__COPY__, 1),
+  (OBIws_0000118, 1),
+  (OBIws_0000118__COPY__, 1),
+  (OBIws_0000122, 1),
+  (OBIws_0000122__COPY__, 1),
+  (OBIws_0000124, 1),
+  (OBIws_0000124__COPY__, 1),
+  (OBIws_0000126, 1),
+  (OBIws_0000126__COPY__, 1),
+  (OBIws_0000128, 1),
+  (OBIws_0000128__COPY__, 1),
+  (OBIws_0000133, 1),
+  (OBIws_0000133__COPY__, 1),
+  (OBIws_0000139, 1),
+  (OBIws_0000139__COPY__, 1),
+  (OBIws_0000147, 1),
+  (OBIws_0000147__COPY__, 1),
+  (OBIws_0000148, 1),
+  (OBIws_0000148__COPY__, 1),
+  (OBIws_0000149, 1),
+  (OBIws_0000149__COPY__, 1),
+  (OBIws_0000150, 1),
+  (OBIws_0000150__COPY__, 1),
+  (OBIws_0000152, 1),
+  (OBIws_0000152__COPY__, 1),
+  (OBIws_0000154, 1),
+  (OBIws_0000154__COPY__, 1),
+  (OBIws_0000158, 1),
+  (OBIws_0000158__COPY__, 1),
+  (OBIws_0000159, 1),
+  (OBIws_0000159__COPY__, 1),
+  (OBIws_0000161, 1),
+  (OBIws_0000161__COPY__, 1),
+  (OBIws_0000163, 1),
+  (OBIws_0000163__COPY__, 1),
+  (OBIws_0000165, 1),
+  (OBIws_0000165__COPY__, 1),
+  (OBIws_0000167, 1),
+  (OBIws_0000167__COPY__, 1),
+  (OBIws_0000169, 1),
+  (OBIws_0000169__COPY__, 1),
+  (OBIws_0000170, 1),
+  (OBIws_0000170__COPY__, 1),
+  (OBIws_0000171, 1),
+  (OBIws_0000171__COPY__, 1),
+  (OBIws_0000172, 1),
+  (OBIws_0000172__COPY__, 1),
+  (OBIws_0000175, 1),
+  (OBIws_0000175__COPY__, 1),
+  (OBIws_0000176, 1),
+  (OBIws_0000176__COPY__, 1),
+  (OBIws_0000177, 1),
+  (OBIws_0000177__COPY__, 1),
+  (OBIws_0000178, 1),
+  (OBIws_0000178__COPY__, 1),
+  (OBIws_0000179, 1),
+  (OBIws_0000179__COPY__, 1),
+  (OBIws_0000180, 1),
+  (OBIws_0000180__COPY__, 1),
+  (OBIws_0000181, 1),
+  (OBIws_0000181__COPY__, 1),
+  (OBIws_0000182, 1),
+  (OBIws_0000182__COPY__, 1),
+  (OBIws_0000183, 1),
+  (OBIws_0000183__COPY__, 1),
+  (OBIws_0000184, 1),
+  (OBIws_0000184__COPY__, 1),
+  (OBIws_0000185, 1),
+  (OBIws_0000185__COPY__, 1),
+  (OBIws_0000186, 1),
+  (OBIws_0000186__COPY__, 1),
+  (OBIws_0000187, 1),
+  (OBIws_0000187__COPY__, 1),
+  (OBIws_0000188, 1),
+  (OBIws_0000188__COPY__, 1),
+  (OBIws_0000189, 1),
+  (OBIws_0000189__COPY__, 1),
+  (OBIws_0000190, 1),
+  (OBIws_0000190__COPY__, 1),
+  (OBIws_0000191, 1),
+  (OBIws_0000191__COPY__, 1),
+  (OBIws_0000192, 1),
+  (OBIws_0000192__COPY__, 1),
+  (OBIws_0000193, 1),
+  (OBIws_0000193__COPY__, 1),
+  (OBIws_0000194, 1),
+  (OBIws_0000194__COPY__, 1),
+  (OBIws_0000195, 1),
+  (OBIws_0000195__COPY__, 1),
+  (OBIws_0000196, 1),
+  (OBIws_0000196__COPY__, 1),
+  (OBIws_0000197, 1),
+  (OBIws_0000197__COPY__, 1),
+  (OBIws_0000198, 1),
+  (OBIws_0000198__COPY__, 1),
+  (OBIws_0000199, 1),
+  (OBIws_0000199__COPY__, 1),
+  (OBIws_0000200, 1),
+  (OBIws_0000200__COPY__, 1),
+  (OBIws_0000201, 1),
+  (OBIws_0000201__COPY__, 1),
+  (OBIws_0000202, 1),
+  (OBIws_0000202__COPY__, 1),
+  (OBIws_0000203, 1),
+  (OBIws_0000203__COPY__, 1),
+  (OBIws_0000204, 1),
+  (OBIws_0000204__COPY__, 1),
+  (OBIws_0000205, 1),
+  (OBIws_0000205__COPY__, 1),
+  (OBIws_0000206, 1),
+  (OBIws_0000206__COPY__, 1),
+  (OBIws_0000207, 1),
+  (OBIws_0000207__COPY__, 1),
+  (OBIws_0000208, 1),
+  (OBIws_0000208__COPY__, 1),
+  (SO_0000001, 1),
+  (SO_0000001__COPY__, 1),
+  (SO_0000104, 1),
+  (SO_0000104__COPY__, 1),
+(BFO_0000002__COPY__, 1), 
+(OBI_0200081, 1)
+].
+end_of_list.
+
+list_of_formulae(axioms).
+formula(forall([X1], implies(NCBITaxon_207598(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000197__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000189__COPY__(X2)))))).
+formula(forall([X1], implies(SO_0000001(X1), A_TOP(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000053(X1, X2), A_TOP__COPY__(X2))), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(_A15__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(_A9__COPY__(X1), exists([X2], and(BFO_0000051(X1, X2), IAO_0000005__COPY__(X2)))))).
+formula(forall([X1], implies(BFO_0000020__COPY__(X1), BFO_0000005__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000116(X1), OBIws_0000090(X1)))).
+formula(forall([X1], implies(OBIws_0000044(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000005(X2)))))).
+formula(forall([X1], implies(OBI_0001573__COPY__(X1), OBI_0000973__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0000941__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_33154(X1), NCBITaxon_2759(X1)))).
+formula(forall([X1], implies(OBIws_0000179(X1), exists([X2], and(IAO_0000136(X1, X2), CHEBI_33709(X2)))))).
+formula(forall([X1], implies(NCBITaxon_32525(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000195__COPY__(X1), OBIws_0000104__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000126(X1), exists([X2], and(IAO_0000136(X1, X2), OBIws_0000029(X2)))))).
+formula(forall([X1], implies(OBIws_0000023(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBI_0000947(X1), A_TOP(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBI_0000299(X1, X2), A_TOP(X2))), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000188(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(IAO_0000033__COPY__(X1), IAO_0000030__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000182(X1), IAO_0000100(X1)))).
+formula(forall([X1], implies(OBIws_0000068(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(IAO_0000098(X1), IAO_0000033(X1)))).
+formula(forall([X1], implies(BFO_0000031(X1), BFO_0000005(X1)))).
+formula(forall([X1], implies(NCBITaxon_2__COPY__(X1), OBI_0100026__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0200000__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), IAO_0000027__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000203(X1), exists([X2], and(OBI_0000293(X1, X2), _A1(X2)))))).
+formula(forall([X1], implies(OBIws_0000203__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000194__COPY__(X2)))))).
+formula(forall([X1], implies(_A12(X1), exists([X2], and(BFO_0000059(X1, X2), IAO_0000010(X2)))))).
+formula(forall([X1], implies(OBIws_0000100(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000104__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000055__COPY__(X2)))))).
+formula(forall([X1], implies(NCBITaxon_376913__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(and(_A15(X1), OBI_0000011(X1)), OBI_0001173(X1)))).
+formula(forall([X1], implies(BFO_0000023__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000197(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000080(X2)))))).
+formula(forall([X1], implies(OBIws_0000096__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000057__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000075__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000175(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000005__COPY__(X1), exists([X2], and(BFO_0000051(X1, X2), _A3__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000024(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000204__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000189__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000086(X1), A_TOP(X1)))).
+formula(forall([X1], implies(BFO_0000020__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_32523__COPY__(X1), NCBITaxon_8287__COPY__(X1)))).
+formula(forall([X1], implies(BFO_0000031(X1), A_TOP(X1)))).
+formula(forall([X1], implies(NCBITaxon_33213__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000202__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), _A1__COPY__(X2)))))).
+formula(forall([X1], implies(_A5__COPY__(X1), exists([X2], and(BFO_0000059(X1, X2), OBIws_0000013__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000038__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000075__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_7742(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000203__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), _A1__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000124(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000033__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000197__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000196__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000186__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000126__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000139__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000056__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000048__COPY__(X1), OBI_0001173__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000101(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000106(X2)))))).
+formula(forall([X1], implies(OBIws_0000045(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000026(X2)))))).
+formula(forall([X1], implies(OBIws_0000206(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(OBIws_0000080(X1), OBI_0000973(X1)))).
+formula(forall([X1], implies(OBIws_0000078(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000207(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(OBIws_0000102(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000161(X2)))))).
+formula(forall([X1], implies(OBIws_0000051__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000310(X1), A_TOP(X1)))).
+formula(forall([X1], implies(CHEBI_33696(X1), CHEBI_33839(X1)))).
+formula(forall([X1], implies(OBIws_0000005(X1), OBIws_0000001(X1)))).
+formula(forall([X1], implies(OBIws_0000147__COPY__(X1), IAO_0000005__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000072(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000116(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000038(X2)))))).
+formula(forall([X1], implies(OBIws_0000189__COPY__(X1), IAO_0000005__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000179__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000179(X1), OBIws_0000049(X1)))).
+formula(forall([X1], implies(BFO_0000007__COPY__(X1), BFO_0000003__COPY__(X1)))).
+formula(forall([X1], implies(_A6__COPY__(X1), exists([X2], and(IAO_0000219(X1, X2), OBIws_0000015__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000096__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000078__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000039__COPY__(X1), OBIws_0000040__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000019(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000060(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(_A7__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_6072__COPY__(X1), NCBITaxon_33208__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000018__COPY__(X1), IAO_0000064__COPY__(X1)))).
+formula(forall([X1], implies(_A5(X1), exists([X2], and(BFO_0000059(X1, X2), OBIws_0000013(X2)))))).
+formula(forall([X1], implies(OBIws_0000178__COPY__(X1), IAO_0000100__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0001173__COPY__(X1), exists([X2], and(BFO_0000055(X1, X2), OBI_0000941__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000056(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000195__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000189__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000195(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000193(X2)))))).
+formula(forall([X1], implies(IAO_0000300__COPY__(X1), IAO_0000030__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000072__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000203__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000196__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000050(X1), exists([X2], and(BFO_0000055(X1, X2), _A12(X2)))))).
+formula(forall([X1], implies(OBIws_0000042__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000093__COPY__(X2)))))).
+formula(forall([X1], implies(BFO_0000017__COPY__(X1), BFO_0000020__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0100026__COPY__(X1), BFO_0000040__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000045__COPY__(X1), OBIws_0000158__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000205__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(_A12__COPY__(X1), exists([X2], and(BFO_0000059(X1, X2), IAO_0000010__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000084(X1), OBIws_0000104(X1)))).
+formula(forall([X1], implies(OBIws_0000007__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000109(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000048(X1), OBI_0001173(X1)))).
+formula(forall([X1], implies(OBIws_0000103__COPY__(X1), OBIws_0000170__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000199__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000202__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000196__COPY__(X2)))))).
+formula(forall([X1], implies(OBI_0200166__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000061__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000196__COPY__(X1), IAO_0000027__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000202(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000193(X2)))))).
+formula(forall([X1], implies(OBIws_0000103__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000083(X1), OBIws_0000158(X1)))).
+formula(forall([X1], implies(OBIws_0000043__COPY__(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000117__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000195(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000194(X2)))))).
+formula(forall([X1], implies(OBIws_0000101(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000078(X2)))))).
+formula(forall([X1], implies(OBIws_0000163__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000107__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(BFO_0000003__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_89593__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000007(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000095__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000191__COPY__(X1), IAO_0000577__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000126(X1), OBIws_0000124(X1)))).
+formula(forall([X1], implies(OBIws_0000154(X1), A_TOP(X1)))).
+formula(forall([X1], implies(NCBITaxon_33208__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000193(X1), OBI_0001573(X1)))).
+formula(forall([X1], implies(OBIws_0000181__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000076__COPY__(X2)))))).
+formula(forall([X1], implies(NCBITaxon_9443__COPY__(X1), NCBITaxon_314146__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000204(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000206(X2)))))).
+formula(forall([X1], implies(_A8__COPY__(X1), exists([X2], and(BFO_0000059(X1, X2), _A9__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000091(X1), OBIws_0000090(X1)))).
+formula(forall([X1], implies(OBIws_0000049__COPY__(X1), OBIws_0000051__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000163(X1), OBIws_0000104(X1)))).
+formula(forall([X1], implies(OBIws_0000034(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000084(X1), A_TOP(X1)))).
+formula(forall([X1], implies(exists([X2], and(IAO_0000136(X1, X2), A_TOP(X2))), IAO_0000030(X1)))).
+formula(forall([X1], implies(OBIws_0000055(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000185(X1), A_TOP(X1)))).
+formula(forall([X1], implies(_A13__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000133__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000036__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_10239(X1), OBI_0100026(X1)))).
+formula(forall([X1], implies(OBIws_0000045__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), IAO_0000098__COPY__(X2)))))).
+formula(forall([X1], implies(NCBITaxon_33208(X1), A_TOP(X1)))).
+formula(forall([X1], implies(_A11(X1), exists([X2], and(BFO_0000052(X1, X2), CHEBI_33697(X2)))))).
+formula(forall([X1], implies(OBIws_0000067(X1), A_TOP(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBI_0000293(X1, X2), A_TOP(X2))), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000117__COPY__(X1), OBI_0200000__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000147(X1), IAO_0000005(X1)))).
+formula(forall([X1], implies(OBI_0000245__COPY__(X1), BFO_0000040__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000082(X2)))))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000095(X2)))))).
+formula(forall([X1], implies(OBIws_0000118(X1), OBIws_0000100(X1)))).
+formula(forall([X1], implies(OBIws_0000176__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(CHEBI_33697(X1), CHEBI_33696(X1)))).
+formula(forall([X1], implies(OBIws_0000181(X1), A_TOP(X1)))).
+formula(forall([X1], implies(IAO_0000100__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBI_0000973(X2)))))).
+formula(forall([X1], implies(NCBITaxon_314295__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_32523(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000163(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000080(X2)))))).
+formula(forall([X1], implies(OBIws_0000100(X1), IAO_0000100(X1)))).
+formula(forall([X1], implies(OBIws_0000044__COPY__(X1), OBIws_0000104__COPY__(X1)))).
+formula(forall([X1], implies(_A1__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000090(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000064(X2)))))).
+formula(forall([X1], implies(OBIws_0000053__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000025__COPY__(X1), IAO_0000100__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000005(X1), exists([X2], and(BFO_0000051(X1, X2), _A3(X2)))))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000055(X1, X2), A_TOP__COPY__(X2))), BFO_0000007__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000104(X1), exists([X2], and(BFO_0000051(X1, X2), IAO_0000005(X2)))))).
+formula(forall([X1], implies(OBIws_0000031__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000082__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000195(X1), exists([X2], and(OBI_0000293(X1, X2), _A1(X2)))))).
+formula(forall([X1], implies(OBIws_0000197(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000196(X2)))))).
+formula(forall([X1], implies(OBIws_0000069(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000190__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), _A1__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000154(X1), IAO_0000064(X1)))).
+formula(forall([X1], implies(OBIws_0000124__COPY__(X1), IAO_0000098__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000158(X1), OBIws_0000104(X1)))).
+formula(forall([X1], implies(OBI_0000941__COPY__(X1), BFO_0000023__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000090__COPY__(X1), OBI_0200000__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000078__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(BFO_0000004__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0100026__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(BFO_0000002(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000078(X2)))))).
+formula(forall([X1], implies(OBIws_0000003(X1), IAO_0000300(X1)))).
+formula(forall([X1], implies(OBIws_0000101(X1), exists([X2], and(OBI_0000299(X1, X2), OBI_0000973(X2)))))).
+formula(forall([X1], implies(OBIws_0000020__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000081__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000208(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000189(X2)))))).
+formula(forall([X1], implies(OBIws_0000208(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000191(X2)))))).
+formula(forall([X1], implies(OBIws_0000208__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000198__COPY__(X2)))))).
+formula(forall([X1], implies(OBI_0000011__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_2(X1), OBI_0100026(X1)))).
+formula(forall([X1], implies(IAO_0000429__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000128__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000009(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000170(X1), IAO_0000005(X1)))).
+formula(forall([X1], implies(OBIws_0000202__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000199__COPY__(X2)))))).
+formula(forall([X1], implies(NCBITaxon_2__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000050__COPY__(X1), exists([X2], and(BFO_0000055(X1, X2), _A12__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000086__COPY__(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000074__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000075__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBI_0000417(X1, X2), A_TOP__COPY__(X2))), OBI_0000011__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_9443__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(and(_A10(X1), IAO_0000104(X1)), _A9(X1)))).
+formula(forall([X1], implies(IAO_0000109__COPY__(X1), IAO_0000027__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000051(X1), OBIws_0000118(X1)))).
+formula(forall([X1], implies(OBIws_0000192(X1), OBI_0000973(X1)))).
+formula(forall([X1], implies(OBIws_0000180__COPY__(X1), OBI_0200081__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000031(X1), exists([X2], and(OBI_0000293(X1, X2), OBI_0000973(X2)))))).
+formula(forall([X1], implies(OBIws_0000171__COPY__(X1), IAO_0000005__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000055(X1, X2), A_TOP__COPY__(X2))), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000191(X1), IAO_0000577(X1)))).
+formula(forall([X1], implies(OBIws_0000204(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000196(X2)))))).
+formula(forall([X1], implies(OBIws_0000165__COPY__(X1), exists([X2], and(OBI_0000295(X1, X2), OBIws_0000050__COPY__(X2)))))).
+formula(forall([X1], implies(_A14(X1), exists([X2], and(BFO_0000052(X1, X2), CHEBI_16991(X2)))))).
+formula(forall([X1], implies(OBIws_0000106__COPY__(X1), IAO_0000098__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000045__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000026__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000053__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_207598__COPY__(X1), NCBITaxon_9604__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_314295__COPY__(X1), NCBITaxon_9526__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000191(X1), exists([X2], and(IAO_0000219(X1, X2), OBI_0000811(X2)))))).
+formula(forall([X1], implies(IAO_0000027(X1), IAO_0000030(X1)))).
+formula(forall([X1], implies(OBIws_0000078__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000064__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000310__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000101(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000107(X2)))))).
+formula(forall([X1], implies(OBIws_0000085(X1), A_TOP(X1)))).
+formula(forall([X1], implies(NCBITaxon_376913(X1), NCBITaxon_9443(X1)))).
+formula(forall([X1], implies(_A2(X1), exists([X2], and(BFO_0000059(X1, X2), OBIws_0000015(X2)))))).
+formula(forall([X1], implies(OBIws_0000159__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBIws_0000138(X1, X2), A_TOP__COPY__(X2))), OBIws_0000050__COPY__(X1)))).
+formula(forall([X1], implies(and(_A16(X1), _A17(X1)), _A15(X1)))).
+formula(forall([X1], implies(OBIws_0000169__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000066__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000202__COPY__(X1), OBIws_0000104__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000203__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000201__COPY__(X2)))))).
+formula(forall([X1], implies(NCBITaxon_2759__COPY__(X1), OBI_0100026__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000078__COPY__(X1), IAO_0000102__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000014__COPY__(X1), OBI_0200081__COPY__(X1)))).
+formula(forall([X1], implies(_A2__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000202__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000193__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000034__COPY__(X1), OBIws_0000051__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000053(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(OBIws_0000184__COPY__(X1), OBIws_0000192__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000139(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000056(X2)))))).
+formula(forall([X1], implies(OBIws_0000024__COPY__(X1), exists([X2], and(IAO_0000219(X1, X2), IAO_0000064__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000190(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000194(X2)))))).
+formula(forall([X1], implies(OBIws_0000204(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000191(X2)))))).
+formula(forall([X1], implies(OBI_0000245__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_314146__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000096(X1), OBIws_0000091(X1)))).
+formula(forall([X1], implies(_A13(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000204(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000080(X2)))))).
+formula(forall([X1], implies(OBIws_0000185(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(_A4__COPY__(X1), exists([X2], and(BFO_0000059(X1, X2), OBIws_0000018__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000049(X1), A_TOP(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000052(X1, X2), CHEBI_33697(X2))), _A11(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000055(X1, X2), A_TOP(X2))), BFO_0000007(X1)))).
+formula(forall([X1], implies(NCBITaxon_33154__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000190(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000189(X2)))))).
+formula(forall([X1], implies(OBIws_0000194__COPY__(X1), exists([X2], and(IAO_0000136(X1, X2), SO_0000104__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000031(X1), OBIws_0000104(X1)))).
+formula(forall([X1], implies(OBIws_0000102__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000172__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000117(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000023(X2)))))).
+formula(forall([X1], implies(OBIws_0000073(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000044(X1), OBIws_0000104(X1)))).
+formula(forall([X1], implies(OBIws_0000044__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000150__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000071__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0000845(X1), exists([X2], and(BFO_0000058(X1, X2), _A11(X2)))))).
+formula(forall([X1], implies(_A7(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000208__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), _A1__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000101(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000007(X2)))))).
+formula(forall([X1], implies(OBIws_0000095(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(SO_0000104(X1), A_TOP(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBI_0000299(X1, X2), A_TOP__COPY__(X2))), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_9347__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000037(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000179(X2)))))).
+formula(forall([X1], implies(OBIws_0000040__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000024__COPY__(X1), IAO_0000028__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000205(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(OBIws_0000097(X1), A_TOP(X1)))).
+formula(forall([X1], implies(_A7__COPY__(X1), exists([X2], and(BFO_0000059(X1, X2), OBIws_0000088__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000044(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000150(X2)))))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000053(X1, X2), A_TOP__COPY__(X2))), BFO_0000004__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000167(X1), IAO_0000027(X1)))).
+formula(forall([X1], implies(CHEBI_33839(X1), A_TOP(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000057(X1, X2), A_TOP__COPY__(X2))), BFO_0000007__COPY__(X1)))).
+formula(forall([X1], implies(and(_A16__COPY__(X1), _A17__COPY__(X1)), _A15__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000026(X1), A_TOP(X1)))).
+formula(forall([X1], implies(NCBITaxon_9347(X1), NCBITaxon_32525(X1)))).
+formula(forall([X1], implies(OBI_0100026(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000066__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000082(X1), OBI_0000071(X1)))).
+formula(forall([X1], implies(OBI_0000947(X1), BFO_0000023(X1)))).
+formula(forall([X1], implies(OBIws_0000037(X1), OBIws_0000040(X1)))).
+formula(forall([X1], implies(OBIws_0000169__COPY__(X1), IAO_0000098__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000055__COPY__(X1), IAO_0000005__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000055(X1, X2), _A12__COPY__(X2))), _A13__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000101__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000055(X1, X2), OBI_0000947(X2))), _A17(X1)))).
+formula(forall([X1], implies(OBIws_0000015__COPY__(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000064__COPY__(X2)))))).
+formula(forall([X1], implies(NCBITaxon_7742(X1), NCBITaxon_89593(X1)))).
+formula(forall([X1], implies(NCBITaxon_6072(X1), NCBITaxon_33208(X1)))).
+formula(forall([X1], implies(OBIws_0000117(X1), exists([X2], and(BFO_0000055(X1, X2), _A5(X2)))))).
+formula(forall([X1], implies(OBIws_0000201(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000208__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000191__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000165(X1), IAO_0000030(X1)))).
+formula(forall([X1], implies(BFO_0000003(X1), A_TOP(X1)))).
+formula(forall([X1], implies(_A14__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000202__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000189__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000199__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(_A12(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000176(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000037__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000180__COPY__(X2)))))).
+formula(forall([X1], implies(NCBITaxon_40674(X1), NCBITaxon_32524(X1)))).
+formula(forall([X1], implies(OBIws_0000202(X1), exists([X2], and(OBI_0000293(X1, X2), _A1(X2)))))).
+formula(forall([X1], implies(NCBITaxon_33316(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000039(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000176(X2)))))).
+formula(forall([X1], implies(BFO_0000003(X1), BFO_0000001(X1)))).
+formula(forall([X1], implies(NCBITaxon_9604__COPY__(X1), NCBITaxon_314295__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_207598__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(_A6__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000195__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000185__COPY__(X2)))))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000059(X1, X2), A_TOP__COPY__(X2))), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000184__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_9605(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000057(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(OBIws_0000204__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), _A1__COPY__(X2)))))).
+formula(forall([X1], implies(exists([X2], and(IAO_0000136(X1, X2), A_TOP__COPY__(X2))), IAO_0000030__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000208(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000193(X2)))))).
+formula(forall([X1], implies(OBIws_0000128(X1), A_TOP(X1)))).
+formula(forall([X1], implies(NCBITaxon_32524__COPY__(X1), NCBITaxon_32523__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000058(X1, X2), _A11__COPY__(X2))), OBI_0000845__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_376913(X1), A_TOP(X1)))).
+formula(forall([X1], implies(IAO_0000310__COPY__(X1), IAO_0000030__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000057(X1, X2), A_TOP(X2))), A_TOP(X1)))).
+formula(forall([X1], implies(IAO_0000104__COPY__(X1), exists([X2], and(BFO_0000051(X1, X2), IAO_0000005__COPY__(X2)))))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000058(X1, X2), _A14__COPY__(X2))), OBI_0000811__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000030(X1), exists([X2], and(IAO_0000136(X1, X2), BFO_0000001(X2)))))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000027__COPY__(X2)))))).
+formula(forall([X1], implies(BFO_0000023(X1), BFO_0000017(X1)))).
+formula(forall([X1], implies(OBIws_0000185__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000045(X1), OBIws_0000158(X1)))).
+formula(forall([X1], implies(OBIws_0000208__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000194__COPY__(X2)))))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000057(X1, X2), A_TOP(X2))), BFO_0000007(X1)))).
+formula(forall([X1], implies(_A7(X1), exists([X2], and(BFO_0000059(X1, X2), OBIws_0000088(X2)))))).
+formula(forall([X1], implies(OBIws_0000102(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000103(X2)))))).
+formula(forall([X1], implies(OBIws_0000180__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000101__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000097__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000202__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000191__COPY__(X2)))))).
+formula(forall([X1], implies(exists([X2], and(OBIws_0000138(X1, X2), A_TOP(X2))), OBIws_0000050(X1)))).
+formula(forall([X1], implies(_A4__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000057(X1), exists([X2], and(IAO_0000136(X1, X2), OBIws_0000139(X2)))))).
+formula(forall([X1], implies(_A9(X1), IAO_0000104(X1)))).
+formula(forall([X1], implies(OBIws_0000090__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000197__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000193__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000195(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000188(X2)))))).
+formula(forall([X1], implies(IAO_0000064(X1), IAO_0000104(X1)))).
+formula(forall([X1], implies(CHEBI_33709(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000053(X1), A_TOP(X1)))).
+formula(forall([X1], implies(IAO_0000104__COPY__(X1), IAO_0000033__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000204(X1), OBIws_0000104(X1)))).
+formula(forall([X1], implies(OBIws_0000048__COPY__(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000104__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000133__COPY__(X1), IAO_0000028__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000033(X2)))))).
+formula(forall([X1], implies(OBIws_0000083__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000148__COPY__(X2)))))).
+formula(forall([X1], implies(_A11__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000025__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0000852(X1), IAO_0000030(X1)))).
+formula(forall([X1], implies(OBIws_0000049(X1), OBIws_0000051(X1)))).
+formula(forall([X1], implies(OBIws_0000204__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000194__COPY__(X2)))))).
+formula(forall([X1], implies(BFO_0000017(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000057__COPY__(X1), exists([X2], and(IAO_0000136(X1, X2), OBIws_0000139__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000116__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000064__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000029(X1), OBIws_0000122(X1)))).
+formula(forall([X1], implies(CHEBI_33709__COPY__(X1), CHEBI_23367__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000050(X1, X2), A_TOP(X2))), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000003__COPY__(X1), IAO_0000300__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000172__COPY__(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000167__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000202__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000194__COPY__(X2)))))).
+formula(forall([X1], implies(OBI_0200166__COPY__(X1), IAO_0000005__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000139__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000061__COPY__(X2)))))).
+formula(forall([X1], implies(NCBITaxon_314293__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000059(X1, X2), IAO_0000010__COPY__(X2))), _A12__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000102(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000172(X2)))))).
+formula(forall([X1], implies(exists([X2], and(OBIws_0000137(X1, X2), A_TOP__COPY__(X2))), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000064__COPY__(X1), OBIws_0000014__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000115__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000043(X1), exists([X2], and(OBI_0000293(X1, X2), _A6(X2)))))).
+formula(forall([X1], implies(OBIws_0000027(X1), IAO_0000577(X1)))).
+formula(forall([X1], implies(OBIws_0000036(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000197(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000191(X2)))))).
+formula(forall([X1], implies(OBIws_0000187__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000057__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0200000__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBI_0200166__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000203__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000189__COPY__(X2)))))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000051(X1, X2), A_TOP(X2))), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000175__COPY__(X1), OBIws_0000027__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000149__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000199(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(NCBITaxon_314146(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000063(X1), OBIws_0000014(X1)))).
+formula(forall([X1], implies(NCBITaxon_32524(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000095__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000117__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(BFO_0000017__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(CHEBI_33839(X1), CHEBI_23367(X1)))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000078__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000150__COPY__(X1), IAO_0000005__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBI_0000417(X1, X2), A_TOP(X2))), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000037(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000180(X2)))))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000058(X1, X2), _A11(X2))), OBI_0000845(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000052(X1, X2), CHEBI_16991(X2))), _A14(X1)))).
+formula(forall([X1], implies(OBIws_0000023(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBIws_0000130(X1, X2), A_TOP__COPY__(X2))), IAO_0000030__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0001573(X1), OBI_0000973(X1)))).
+formula(forall([X1], implies(OBIws_0000158__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000204__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000184__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000077(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000188(X1), A_TOP(X1)))).
+formula(forall([X1], implies(IAO_0000028__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000096__COPY__(X1), OBIws_0000091__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000191__COPY__(X1), exists([X2], and(IAO_0000219(X1, X2), OBI_0000811__COPY__(X2)))))).
+formula(forall([X1], implies(BFO_0000040(X1), BFO_0000004(X1)))).
+formula(forall([X1], implies(NCBITaxon_7776(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000050__COPY__(X1), OBI_0000011__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000197__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000191__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000023__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000083__COPY__(X1), OBIws_0000158__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000203(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000184(X2)))))).
+formula(forall([X1], implies(OBIws_0000048(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000104(X2)))))).
+formula(forall([X1], implies(OBIws_0000026__COPY__(X1), OBIws_0000171__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0000973__COPY__(X1), IAO_0000109__COPY__(X1)))).
+formula(forall([X1], implies(CHEBI_33839__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000077__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000118__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(_A9(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBI_0200000(X1), OBI_0000011(X1)))).
+formula(forall([X1], implies(OBIws_0000196__COPY__(X1), exists([X2], and(IAO_0000136(X1, X2), OBI_0000811__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000096(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000078(X2)))))).
+formula(forall([X1], implies(OBIws_0000018(X1), A_TOP(X1)))).
+formula(forall([X1], implies(NCBITaxon_117571(X1), NCBITaxon_117570(X1)))).
+formula(forall([X1], implies(OBIws_0000148__COPY__(X1), OBIws_0000171__COPY__(X1)))).
+formula(forall([X1], implies(CHEBI_33696(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000133(X1), IAO_0000028(X1)))).
+formula(forall([X1], implies(OBIws_0000043__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBI_0000973__COPY__(X2)))))).
+formula(forall([X1], implies(exists([X2], and(OBI_0000293(X1, X2), A_TOP__COPY__(X2))), OBI_0000011__COPY__(X1)))).
+formula(forall([X1], implies(CHEBI_33697__COPY__(X1), CHEBI_33696__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000139(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000060(X2)))))).
+formula(forall([X1], implies(OBIws_0000203(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000196(X2)))))).
+formula(forall([X1], implies(OBI_0000852__COPY__(X1), IAO_0000030__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000007__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_9526__COPY__(X1), NCBITaxon_314293__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000195(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000080(X2)))))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000072__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000203(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000191(X2)))))).
+formula(forall([X1], implies(OBI_0200000__COPY__(X1), OBI_0000011__COPY__(X1)))).
+formula(forall([X1], implies(BFO_0000023__COPY__(X1), BFO_0000017__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000104__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000031__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBI_0000973__COPY__(X2)))))).
+formula(forall([X1], implies(IAO_0000028__COPY__(X1), IAO_0000030__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000102(X1), exists([X2], and(OBI_0000293(X1, X2), _A1(X2)))))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000067__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000073(X2)))))).
+formula(forall([X1], implies(OBIws_0000203(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000152(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000067__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000092(X1), A_TOP(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBIws_0000132(X1, X2), A_TOP__COPY__(X2))), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_6072__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000170__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000055(X1, X2), A_TOP(X2))), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000180(X1), OBI_0200081(X1)))).
+formula(forall([X1], implies(OBIws_0000186(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(OBIws_0000079__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0200000(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000117(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000019(X2)))))).
+formula(forall([X1], implies(OBIws_0000170(X1), A_TOP(X1)))).
+formula(forall([X1], implies(NCBITaxon_10239__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000048__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0200081__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000076__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000208__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000193__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000172__COPY__(X1), OBIws_0000086__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000097(X1), exists([X2], and(IAO_0000219(X1, X2), OBI_0000973(X2)))))).
+formula(forall([X1], implies(OBIws_0000088(X1), exists([X2], and(OBIws_0000137(X1, X2), OBIws_0000096(X2)))))).
+formula(forall([X1], implies(OBIws_0000007__COPY__(X1), IAO_0000098__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000193__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000081(X1), IAO_0000028(X1)))).
+formula(forall([X1], implies(OBIws_0000183(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000101(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000097(X2)))))).
+formula(forall([X1], implies(NCBITaxon_7776(X1), NCBITaxon_7742(X1)))).
+formula(forall([X1], implies(OBIws_0000195__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), _A1__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000201(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(NCBITaxon_32525(X1), NCBITaxon_40674(X1)))).
+formula(forall([X1], implies(OBIws_0000163__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000080__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000066(X2)))))).
+formula(forall([X1], implies(OBIws_0000139__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000057__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000116__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000033__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000015__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(BFO_0000005__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000051(X1, X2), A_TOP__COPY__(X2))), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000060__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000195__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000193__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000040(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000031(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000147(X2)))))).
+formula(forall([X1], implies(OBIws_0000064(X1), OBIws_0000014(X1)))).
+formula(forall([X1], implies(IAO_0000100__COPY__(X1), IAO_0000027__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0001573(X1), exists([X2], and(IAO_0000136(X1, X2), OBI_0000811(X2)))))).
+formula(forall([X1], implies(OBIws_0000019__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(_A1__COPY__(X1), IAO_0000300__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0000071(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000005__COPY__(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000081__COPY__(X2)))))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000052(X1, X2), CHEBI_16991__COPY__(X2))), _A14__COPY__(X1)))).
+formula(forall([X1], implies(_A1(X1), exists([X2], and(IAO_0000219(X1, X2), OBI_0100026(X2)))))).
+formula(forall([X1], implies(OBIws_0000192(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000117__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000021__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000091(X1), A_TOP(X1)))).
+formula(forall([X1], implies(IAO_0000007(X1), IAO_0000033(X1)))).
+formula(forall([X1], implies(NCBITaxon_9605__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000036__COPY__(X1), OBIws_0000100__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_8287__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(BFO_0000040__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000085__COPY__(X1), OBIws_0000154__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000190__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000080__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000019(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(NCBITaxon_9604(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000128(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(OBIws_0000070(X1), OBIws_0000071(X1)))).
+formula(forall([X1], implies(OBIws_0000088(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000102__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000161__COPY__(X2)))))).
+formula(forall([X1], implies(NCBITaxon_7776__COPY__(X1), NCBITaxon_7742__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000198__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(_A15(X1), A_TOP(X1)))).
+formula(forall([X1], implies(BFO_0000002__COPY__(X1), BFO_0000001__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0000852__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000040(X1), OBIws_0000104(X1)))).
+formula(forall([X1], implies(_A2__COPY__(X1), exists([X2], and(BFO_0000059(X1, X2), OBIws_0000015__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000092__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000019__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0000845__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000031(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000082(X2)))))).
+formula(forall([X1], implies(OBIws_0000104(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000203(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000189(X2)))))).
+formula(forall([X1], implies(OBIws_0000081(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000066__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000071(X1), OBIws_0000024(X1)))).
+formula(forall([X1], implies(OBIws_0000090(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000015__COPY__(X1), exists([X2], and(OBIws_0000137(X1, X2), OBIws_0000090__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000195__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000080__COPY__(X2)))))).
+formula(forall([X1], implies(_A16__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000056__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000149(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000064__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000076__COPY__(X1), IAO_0000300__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000061(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(OBIws_0000030(X1), IAO_0000300(X1)))).
+formula(forall([X1], implies(OBIws_0000170__COPY__(X1), IAO_0000005__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_2759(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000038__COPY__(X2)))))).
+formula(forall([X1], implies(_A4(X1), exists([X2], and(BFO_0000059(X1, X2), OBIws_0000018(X2)))))).
+formula(forall([X1], implies(OBIws_0000091__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBI_0000973__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000194(X1), exists([X2], and(IAO_0000136(X1, X2), SO_0000104(X2)))))).
+formula(forall([X1], implies(OBIws_0000102__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000103__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000202(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000191(X2)))))).
+formula(forall([X1], implies(OBIws_0000171__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000197(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000189(X2)))))).
+formula(forall([X1], implies(NCBITaxon_314146(X1), NCBITaxon_9347(X1)))).
+formula(forall([X1], implies(OBIws_0000085__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000027__COPY__(X1), IAO_0000030__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000202__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000080__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000043(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000063(X2)))))).
+formula(forall([X1], implies(OBIws_0000056__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000107__COPY__(X1), IAO_0000005__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000194(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000027__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000060__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000176(X1), OBI_0200081(X1)))).
+formula(forall([X1], implies(NCBITaxon_314293(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000201__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000117__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000019__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000091__COPY__(X1), OBIws_0000090__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_33154__COPY__(X1), NCBITaxon_2759__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_314293__COPY__(X1), NCBITaxon_376913__COPY__(X1)))).
+formula(forall([X1], implies(and(_A15__COPY__(X1), OBI_0000011__COPY__(X1)), OBI_0001173__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000107(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000037__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0200081(X1), OBI_0200166(X1)))).
+formula(forall([X1], implies(OBIws_0000097__COPY__(X1), IAO_0000577__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000025(X1), IAO_0000100(X1)))).
+formula(forall([X1], implies(OBIws_0000068(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000034__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_9443(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000197__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000194__COPY__(X2)))))).
+formula(forall([X1], implies(CHEBI_33696__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000055(X1, X2), OBI_0000947__COPY__(X2))), _A17__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_7711__COPY__(X1), NCBITaxon_33511__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000082__COPY__(X1), OBI_0000071__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000033(X1), IAO_0000030(X1)))).
+formula(forall([X1], implies(OBIws_0000100__COPY__(X1), IAO_0000100__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000198__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000122(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000080(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000190__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000184__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000073__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(_A8__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_32523__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000122__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000069(X1), OBIws_0000124(X1)))).
+formula(forall([X1], implies(OBIws_0000099__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000044__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000163__COPY__(X1), OBIws_0000104__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000018__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000080(X1), exists([X2], and(IAO_0000136(X1, X2), SO_0000104(X2)))))).
+formula(forall([X1], implies(OBIws_0000023__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(_A5(X1), A_TOP(X1)))).
+formula(forall([X1], implies(NCBITaxon_7711(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000061(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000042(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000165__COPY__(X1), IAO_0000030__COPY__(X1)))).
+formula(forall([X1], implies(_A3(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBI_0000011__COPY__(X1), BFO_0000007__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000202__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000184__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000197__COPY__(X1), OBIws_0000104__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000015(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000199(X1), A_TOP(X1)))).
+formula(forall([X1], implies(BFO_0000001__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000043(X1), A_TOP(X1)))).
+formula(forall([X1], implies(NCBITaxon_9443(X1), NCBITaxon_314146(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000055(X1, X2), _A8__COPY__(X2))), OBI_0000011__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000039__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000036__COPY__(X2)))))).
+formula(forall([X1], implies(BFO_0000004(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000139(X1), OBIws_0000090(X1)))).
+formula(forall([X1], implies(OBIws_0000197(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000194(X2)))))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000070(X2)))))).
+formula(forall([X1], implies(OBIws_0000139__COPY__(X1), OBIws_0000090__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000063__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000007__COPY__(X1), IAO_0000033__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000005(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000158__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000171__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000043(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000128(X2)))))).
+formula(forall([X1], implies(OBI_0001173(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000072(X2)))))).
+formula(forall([X1], implies(OBI_0200000__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0200081__COPY__(X1), OBI_0200166__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000055__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(CHEBI_23367(X1), BFO_0000040(X1)))).
+formula(forall([X1], implies(OBIws_0000088__COPY__(X1), OBIws_0000015__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0000011(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000206__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(CHEBI_16991(X1), A_TOP(X1)))).
+formula(forall([X1], implies(NCBITaxon_32523(X1), NCBITaxon_8287(X1)))).
+formula(forall([X1], implies(OBIws_0000045__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000093(X1), IAO_0000005(X1)))).
+formula(forall([X1], implies(NCBITaxon_117570__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000203__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000080__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000018__COPY__(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000063__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000024(X2)))))).
+formula(forall([X1], implies(BFO_0000003__COPY__(X1), BFO_0000001__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000001(X1), exists([X2], and(IAO_0000219(X1, X2), IAO_0000310(X2)))))).
+formula(forall([X1], implies(and(_A13(X1), OBI_0000011(X1)), OBIws_0000050(X1)))).
+formula(forall([X1], implies(_A9__COPY__(X1), IAO_0000104__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0000947__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000204(X1), exists([X2], and(OBI_0000293(X1, X2), _A1(X2)))))).
+formula(forall([X1], implies(NCBITaxon_33208(X1), NCBITaxon_33154(X1)))).
+formula(forall([X1], implies(OBI_0000071__COPY__(X1), IAO_0000027__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000181(X1), OBIws_0000178(X1)))).
+formula(forall([X1], implies(OBI_0001173(X1), exists([X2], and(BFO_0000051(X1, X2), OBI_0000011(X2)))))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000053(X1, X2), A_TOP(X2))), A_TOP(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000052(X1, X2), A_TOP__COPY__(X2))), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000102__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000079__COPY__(X2)))))).
+formula(forall([X1], implies(IAO_0000102(X1), IAO_0000027(X1)))).
+formula(forall([X1], implies(OBIws_0000202(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000080(X2)))))).
+formula(forall([X1], implies(OBIws_0000196__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_7711(X1), NCBITaxon_33511(X1)))).
+formula(forall([X1], implies(OBIws_0000086(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000074(X2)))))).
+formula(forall([X1], implies(NCBITaxon_33511__COPY__(X1), NCBITaxon_33316__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000068(X2)))))).
+formula(forall([X1], implies(OBIws_0000203__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000193__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000179__COPY__(X1), exists([X2], and(IAO_0000136(X1, X2), CHEBI_33709__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000064(X2)))))).
+formula(forall([X1], implies(OBIws_0000204(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000194(X2)))))).
+formula(forall([X1], implies(OBIws_0000195(X1), OBIws_0000104(X1)))).
+formula(forall([X1], implies(_A6(X1), exists([X2], and(IAO_0000219(X1, X2), OBIws_0000015(X2)))))).
+formula(forall([X1], implies(OBIws_0000163(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000170(X2)))))).
+formula(forall([X1], implies(OBIws_0000208(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000080(X2)))))).
+formula(forall([X1], implies(IAO_0000064(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000118__COPY__(X1), OBIws_0000100__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_9604__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000182__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBI_0000417(X1, X2), A_TOP__COPY__(X2))), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(IAO_0000136(X1, X2), A_TOP__COPY__(X2))), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000192(X1), exists([X2], and(IAO_0000136(X1, X2), OBI_0000845(X2)))))).
+formula(forall([X1], implies(CHEBI_33696__COPY__(X1), CHEBI_33839__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000091__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000300(X1), IAO_0000030(X1)))).
+formula(forall([X1], implies(OBIws_0000190(X1), OBIws_0000104(X1)))).
+formula(forall([X1], implies(OBIws_0000202(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000030__COPY__(X1), IAO_0000300__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000078__COPY__(X1), IAO_0000100__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000116(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000033(X2)))))).
+formula(forall([X1], implies(CHEBI_23367(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000071(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBI_0000011(X1), exists([X2], and(BFO_0000055(X1, X2), _A8(X2)))))).
+formula(forall([X1], implies(OBIws_0000083(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000027(X2)))))).
+formula(forall([X1], implies(OBIws_0000030__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000116(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBI_0000245(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000074(X2)))))).
+formula(forall([X1], implies(OBIws_0000197(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000193(X2)))))).
+formula(forall([X1], implies(_A16(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000190__COPY__(X1), OBIws_0000104__COPY__(X1)))).
+formula(forall([X1], implies(CHEBI_23367__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000208__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(BFO_0000020(X1), BFO_0000005(X1)))).
+formula(forall([X1], implies(OBIws_0000044__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000005__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000107(X1), IAO_0000005(X1)))).
+formula(forall([X1], implies(OBIws_0000005__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000064__COPY__(X1), IAO_0000104__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000024(X1), exists([X2], and(IAO_0000219(X1, X2), IAO_0000064(X2)))))).
+formula(forall([X1], implies(OBIws_0000190(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000196(X2)))))).
+formula(forall([X1], implies(NCBITaxon_9526(X1), NCBITaxon_314293(X1)))).
+formula(forall([X1], implies(OBIws_0000027(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000082__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_314295(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000117__COPY__(X1), exists([X2], and(BFO_0000055(X1, X2), _A5__COPY__(X2)))))).
+formula(forall([X1], implies(OBI_0200000(X1), exists([X2], and(OBI_0000417(X1, X2), OBI_0200166(X2)))))).
+formula(forall([X1], implies(OBIws_0000037(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000194__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0200000__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), IAO_0000027__COPY__(X2)))))).
+formula(forall([X1], implies(IAO_0000109__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_9605__COPY__(X1), NCBITaxon_207598__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000188__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000190__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000191__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000097__COPY__(X1), exists([X2], and(IAO_0000219(X1, X2), OBI_0000973__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000070__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000001__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0000811(X1), exists([X2], and(BFO_0000058(X1, X2), _A14(X2)))))).
+formula(forall([X1], implies(OBIws_0000202(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000194(X2)))))).
+formula(forall([X1], implies(OBIws_0000072(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(NCBITaxon_33511__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000190__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000193__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000203(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000194(X2)))))).
+formula(forall([X1], implies(_A6__COPY__(X1), OBIws_0000024__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000208__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000200__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000202(X1), OBIws_0000104(X1)))).
+formula(forall([X1], implies(OBIws_0000197__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000191__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000061__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000165(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000178(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000080(X2)))))).
+formula(forall([X1], implies(BFO_0000023(X1), A_TOP(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000050(X1, X2), A_TOP(X2))), BFO_0000001(X1)))).
+formula(forall([X1], implies(NCBITaxon_2(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000163__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000170__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000139(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000057(X2)))))).
+formula(forall([X1], implies(OBIws_0000070__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000102__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000031__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBI_0000973__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000195(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000187(X2)))))).
+formula(forall([X1], implies(OBIws_0000086(X1), IAO_0000100(X1)))).
+formula(forall([X1], implies(OBIws_0000159(X1), A_TOP(X1)))).
+formula(forall([X1], implies(_A9(X1), exists([X2], and(BFO_0000051(X1, X2), IAO_0000005(X2)))))).
+formula(forall([X1], implies(OBIws_0000202__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(_A8(X1), exists([X2], and(BFO_0000059(X1, X2), _A9(X2)))))).
+formula(forall([X1], implies(OBIws_0000177(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000094(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBI_0200166(X1), IAO_0000005(X1)))).
+formula(forall([X1], implies(OBI_0200000(X1), exists([X2], and(OBI_0000299(X1, X2), IAO_0000027(X2)))))).
+formula(forall([X1], implies(_A3__COPY__(X1), exists([X2], and(IAO_0000219(X1, X2), OBIws_0000007__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000187(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000005(X1), exists([X2], and(BFO_0000051(X1, X2), IAO_0000009(X2)))))).
+formula(forall([X1], implies(OBIws_0000093__COPY__(X1), IAO_0000005__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000010(X1), IAO_0000104(X1)))).
+formula(forall([X1], implies(NCBITaxon_2759__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000167__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000058(X1, X2), A_TOP(X2))), A_TOP(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBI_0000295(X1, X2), A_TOP(X2))), A_TOP(X1)))).
+formula(forall([X1], implies(_A4(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000152(X1), OBIws_0000007(X1)))).
+formula(forall([X1], implies(OBIws_0000014(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000067(X2)))))).
+formula(forall([X1], implies(_A10__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000178(X1), IAO_0000100(X1)))).
+formula(forall([X1], implies(OBIws_0000005__COPY__(X1), exists([X2], and(IAO_0000136(X1, X2), IAO_0000098__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000204__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000191__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000099(X2)))))).
+formula(forall([X1], implies(OBIws_0000185__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000042(X1), OBIws_0000104(X1)))).
+formula(forall([X1], implies(OBIws_0000208(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000030(X2)))))).
+formula(forall([X1], implies(OBIws_0000204__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_33316(X1), NCBITaxon_33213(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000055(X1, X2), _A12(X2))), _A13(X1)))).
+formula(forall([X1], implies(BFO_0000004(X1), BFO_0000002(X1)))).
+formula(forall([X1], implies(OBIws_0000117(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000063(X2)))))).
+formula(forall([X1], implies(OBIws_0000203__COPY__(X1), OBIws_0000104__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000195__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000190__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000196__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000175__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_9606__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000005__COPY__(X1), IAO_0000033__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0001573__COPY__(X1), exists([X2], and(IAO_0000136(X1, X2), OBI_0000811__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000003(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000158(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000171(X2)))))).
+formula(forall([X1], implies(OBIws_0000079(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000069__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000028(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000101__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBI_0000973__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000030(X1), A_TOP(X1)))).
+formula(forall([X1], implies(NCBITaxon_314146__COPY__(X1), NCBITaxon_9347__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000080__COPY__(X1), exists([X2], and(IAO_0000136(X1, X2), SO_0000104__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000025(X1), A_TOP(X1)))).
+formula(forall([X1], implies(IAO_0000033__COPY__(X1), exists([X2], and(IAO_0000136(X1, X2), BFO_0000017__COPY__(X2)))))).
+formula(forall([X1], implies(NCBITaxon_9606(X1), NCBITaxon_9605(X1)))).
+formula(forall([X1], implies(NCBITaxon_33213(X1), A_TOP(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBI_0000295(X1, X2), A_TOP__COPY__(X2))), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0000947__COPY__(X1), BFO_0000023__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000159(X1), IAO_0000027(X1)))).
+formula(forall([X1], implies(OBIws_0000177__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000052(X1, X2), A_TOP(X2))), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000204__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000205__COPY__(X2)))))).
+formula(forall([X1], implies(NCBITaxon_2157__COPY__(X1), OBI_0100026__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000074__COPY__(X2)))))).
+formula(forall([X1], implies(IAO_0000030(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000195(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000186(X2)))))).
+formula(forall([X1], implies(OBIws_0000099(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000190__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(_A6(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000208__COPY__(X1), OBIws_0000104__COPY__(X1)))).
+formula(forall([X1], implies(BFO_0000040__COPY__(X1), BFO_0000004__COPY__(X1)))).
+formula(forall([X1], implies(_A9__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000070__COPY__(X1), OBIws_0000071__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000116(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000064(X2)))))).
+formula(forall([X1], implies(OBIws_0000081__COPY__(X1), IAO_0000028__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000192__COPY__(X1), exists([X2], and(IAO_0000136(X1, X2), OBI_0000845__COPY__(X2)))))).
+formula(forall([X1], implies(CHEBI_16991(X1), CHEBI_33696(X1)))).
+formula(forall([X1], implies(OBIws_0000196(X1), exists([X2], and(IAO_0000136(X1, X2), OBI_0000811(X2)))))).
+formula(forall([X1], implies(OBIws_0000197__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000080__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000172__COPY__(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000159__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000194__COPY__(X1), IAO_0000027__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000040__COPY__(X1), OBIws_0000104__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBIws_0000132(X1, X2), A_TOP__COPY__(X2))), IAO_0000098__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000003__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(_A14(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000013(X1), IAO_0000064(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000059(X1, X2), _A9(X2))), _A8(X1)))).
+formula(forall([X1], implies(OBIws_0000176__COPY__(X1), OBI_0200081__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000013(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000169(X1), IAO_0000098(X1)))).
+formula(forall([X1], implies(NCBITaxon_314295(X1), NCBITaxon_9526(X1)))).
+formula(forall([X1], implies(OBIws_0000005(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000081(X2)))))).
+formula(forall([X1], implies(OBI_0000973(X1), IAO_0000109(X1)))).
+formula(forall([X1], implies(OBIws_0000198(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(OBIws_0000097(X1), IAO_0000577(X1)))).
+formula(forall([X1], implies(OBIws_0000193__COPY__(X1), OBI_0001573__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_376913__COPY__(X1), NCBITaxon_9443__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000187(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(IAO_0000429__COPY__(X1), IAO_0000030__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000159__COPY__(X1), IAO_0000027__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000126__COPY__(X1), exists([X2], and(IAO_0000136(X1, X2), OBIws_0000029__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000083(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000172(X2)))))).
+formula(forall([X1], implies(_A10(X1), A_TOP(X1)))).
+formula(forall([X1], implies(IAO_0000098(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000083(X1), A_TOP(X1)))).
+formula(forall([X1], implies(IAO_0000009__COPY__(X1), IAO_0000030__COPY__(X1)))).
+formula(forall([X1], implies(_A11(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000115__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_7742__COPY__(X1), NCBITaxon_89593__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000099(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(OBIws_0000208(X1), OBIws_0000104(X1)))).
+formula(forall([X1], implies(NCBITaxon_89593__COPY__(X1), NCBITaxon_7711__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000096__COPY__(X1), exists([X2], and(BFO_0000055(X1, X2), _A7__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000088(X1), OBIws_0000015(X1)))).
+formula(forall([X1], implies(OBIws_0000066(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000102(X1), OBIws_0000163(X1)))).
+formula(forall([X1], implies(OBIws_0000070(X1), A_TOP(X1)))).
+formula(forall([X1], implies(CHEBI_23367__COPY__(X1), BFO_0000040__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000010__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000043__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), _A6__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000117__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000063__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000190(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000080(X2)))))).
+formula(forall([X1], implies(OBIws_0000126(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000096(X1), exists([X2], and(BFO_0000055(X1, X2), _A7(X2)))))).
+formula(forall([X1], implies(IAO_0000104(X1), exists([X2], and(BFO_0000051(X1, X2), IAO_0000007(X2)))))).
+formula(forall([X1], implies(OBI_0000811(X1), A_TOP(X1)))).
+formula(forall([X1], implies(_A17(X1), A_TOP(X1)))).
+formula(forall([X1], implies(NCBITaxon_117570__COPY__(X1), NCBITaxon_7776__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000106__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000090(X1), OBI_0200000(X1)))).
+formula(forall([X1], implies(BFO_0000017(X1), BFO_0000020(X1)))).
+formula(forall([X1], implies(IAO_0000577(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000038(X1), OBIws_0000053(X1)))).
+formula(forall([X1], implies(OBIws_0000126__COPY__(X1), OBIws_0000124__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000083__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(BFO_0000020(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000163(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000099__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000071__COPY__(X1), OBIws_0000024__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000191(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBI_0100026(X1), BFO_0000040(X1)))).
+formula(forall([X1], implies(OBIws_0000208(X1), exists([X2], and(OBI_0000293(X1, X2), _A1(X2)))))).
+formula(forall([X1], implies(OBIws_0000204__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000193__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000117(X1), OBI_0200000(X1)))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000030__COPY__(X2)))))).
+formula(forall([X1], implies(NCBITaxon_7742__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000429(X1), A_TOP(X1)))).
+formula(forall([X1], implies(BFO_0000031__COPY__(X1), BFO_0000005__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000027(X2)))))).
+formula(forall([X1], implies(OBIws_0000149__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000080__COPY__(X1), OBI_0000973__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(IAO_0000136(X1, X2), A_TOP(X2))), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000150(X1), IAO_0000005(X1)))).
+formula(forall([X1], implies(OBIws_0000128__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000082(X1), A_TOP(X1)))).
+formula(forall([X1], implies(IAO_0000009(X1), IAO_0000030(X1)))).
+formula(forall([X1], implies(NCBITaxon_10239(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000031(X1), A_TOP(X1)))).
+formula(forall([X1], implies(BFO_0000001(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000122(X1), IAO_0000100(X1)))).
+formula(forall([X1], implies(OBIws_0000057(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000152__COPY__(X1), OBIws_0000007__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000203(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000080(X2)))))).
+formula(forall([X1], implies(OBIws_0000183(X1), OBIws_0000040(X1)))).
+formula(forall([X1], implies(NCBITaxon_9526__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(BFO_0000007(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000203(X1), OBIws_0000104(X1)))).
+formula(forall([X1], implies(OBIws_0000200(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000029__COPY__(X1), OBIws_0000122__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000117__COPY__(X1), exists([X2], and(BFO_0000055(X1, X2), _A4__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000102__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), _A1__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000020(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000182(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000043(X1), OBIws_0000104(X1)))).
+formula(forall([X1], implies(OBIws_0000043(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000117(X2)))))).
+formula(forall([X1], implies(IAO_0000100(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000171(X1), IAO_0000005(X1)))).
+formula(forall([X1], implies(OBIws_0000208(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000194(X2)))))).
+formula(forall([X1], implies(OBIws_0000024__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000083__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000172__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000094__COPY__(X1), OBI_0000852__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_33213__COPY__(X1), NCBITaxon_6072__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000190(X1), exists([X2], and(OBI_0000293(X1, X2), _A1(X2)))))).
+formula(forall([X1], implies(NCBITaxon_8287(X1), NCBITaxon_117571(X1)))).
+formula(forall([X1], implies(OBI_0200166(X1), A_TOP(X1)))).
+formula(forall([X1], implies(_A17__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000203__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000184__COPY__(X2)))))).
+formula(forall([X1], implies(NCBITaxon_6072(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000005__COPY__(X1), exists([X2], and(BFO_0000051(X1, X2), IAO_0000009__COPY__(X2)))))).
+formula(forall([X1], implies(exists([X2], and(OBI_0000299(X1, X2), A_TOP__COPY__(X2))), OBI_0000011__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000189(X1), IAO_0000005(X1)))).
+formula(forall([X1], implies(OBIws_0000172(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000159(X2)))))).
+formula(forall([X1], implies(BFO_0000002__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000190__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000189__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000042(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000093(X2)))))).
+formula(forall([X1], implies(OBIws_0000102(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000042__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000005(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000076(X2)))))).
+formula(forall([X1], implies(NCBITaxon_89593(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000188__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000043(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000090(X2)))))).
+formula(forall([X1], implies(NCBITaxon_40674__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_8287__COPY__(X1), NCBITaxon_117571__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0000011(X1), BFO_0000007(X1)))).
+formula(forall([X1], implies(IAO_0000577__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000147(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000202(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000184(X2)))))).
+formula(forall([X1], implies(_A8(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000051__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000161__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000099__COPY__(X2)))))).
+formula(forall([X1], implies(and(_A13__COPY__(X1), OBI_0000011__COPY__(X1)), OBIws_0000050__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0000973(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000024__COPY__(X2)))))).
+formula(forall([X1], implies(IAO_0000005(X1), IAO_0000033(X1)))).
+formula(forall([X1], implies(NCBITaxon_7776__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000086__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000063(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000005__COPY__(X1), OBIws_0000001__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000043(X1), exists([X2], and(OBI_0000293(X1, X2), IAO_0000429(X2)))))).
+formula(forall([X1], implies(exists([X2], and(OBIws_0000137(X1, X2), A_TOP(X2))), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000204(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000039__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000165(X1), exists([X2], and(OBI_0000295(X1, X2), OBIws_0000050(X2)))))).
+formula(forall([X1], implies(OBIws_0000001(X1), IAO_0000300(X1)))).
+formula(forall([X1], implies(OBIws_0000207(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000043(X1), exists([X2], and(OBI_0000293(X1, X2), OBI_0000973(X2)))))).
+formula(forall([X1], implies(OBIws_0000049__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000101__COPY__(X1), OBIws_0000104__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0000845__COPY__(X1), SO_0000001__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000190(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000184(X2)))))).
+formula(forall([X1], implies(OBIws_0000095__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000081__COPY__(X1), exists([X2], and(IAO_0000219(X1, X2), IAO_0000098__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000033__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), IAO_0000429(X2)))))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000051(X2)))))).
+formula(forall([X1], implies(OBIws_0000080__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000068__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000050(X1, X2), A_TOP__COPY__(X2))), BFO_0000001__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000027(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000195(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000189(X2)))))).
+formula(forall([X1], implies(OBI_0000845__COPY__(X1), exists([X2], and(BFO_0000058(X1, X2), _A11__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000031__COPY__(X1), OBIws_0000104__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0001173__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000043__COPY__(X1), OBIws_0000104__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_117570(X1), A_TOP(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000053(X1, X2), A_TOP(X2))), BFO_0000004(X1)))).
+formula(forall([X1], implies(IAO_0000030__COPY__(X1), exists([X2], and(IAO_0000136(X1, X2), BFO_0000001__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000208__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000184__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000083(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000148(X2)))))).
+formula(forall([X1], implies(IAO_0000010__COPY__(X1), IAO_0000104__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000048(X1), A_TOP(X1)))).
+formula(forall([X1], implies(CHEBI_33709__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000124__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(_A1(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000073(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(OBIws_0000149(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(OBIws_0000104(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000055(X2)))))).
+formula(forall([X1], implies(OBIws_0000076(X1), IAO_0000300(X1)))).
+formula(forall([X1], implies(OBIws_0000014(X1), OBI_0200081(X1)))).
+formula(forall([X1], implies(OBIws_0000115(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000196(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000015(X1), exists([X2], and(OBIws_0000137(X1, X2), OBIws_0000090(X2)))))).
+formula(forall([X1], implies(IAO_0000005__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000056(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(OBIws_0000117(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000038(X2)))))).
+formula(forall([X1], implies(OBIws_0000040__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBI_0200081__COPY__(X2)))))).
+formula(forall([X1], implies(IAO_0000102__COPY__(X1), IAO_0000027__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_8287(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBI_0000811__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000139(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000076(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBI_0001573__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000208__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000080__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000096(X1), A_TOP(X1)))).
+formula(forall([X1], implies(CHEBI_33709(X1), CHEBI_23367(X1)))).
+formula(forall([X1], implies(NCBITaxon_117571(X1), A_TOP(X1)))).
+formula(forall([X1], implies(BFO_0000002(X1), BFO_0000001(X1)))).
+formula(forall([X1], implies(OBIws_0000043(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000030(X2)))))).
+formula(forall([X1], implies(OBIws_0000202(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000196(X2)))))).
+formula(forall([X1], implies(OBIws_0000094__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0000941(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000101__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000106__COPY__(X2)))))).
+formula(forall([X1], implies(OBI_0001173__COPY__(X1), OBI_0000011__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000117(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000033(X2)))))).
+formula(forall([X1], implies(OBIws_0000092(X1), OBIws_0000117(X1)))).
+formula(forall([X1], implies(OBIws_0000203__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000191__COPY__(X2)))))).
+formula(forall([X1], implies(OBI_0000973__COPY__(X1), exists([X2], and(IAO_0000136(X1, X2), SO_0000001__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000195__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000186__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000074__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000074(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(OBIws_0000075(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000074(X1), A_TOP(X1)))).
+formula(forall([X1], implies(CHEBI_16991__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000152__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000055(X1, X2), _A8(X2))), OBI_0000011(X1)))).
+formula(forall([X1], implies(OBIws_0000031__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000147__COPY__(X2)))))).
+formula(forall([X1], implies(OBI_0000973__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000139__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000053__COPY__(X2)))))).
+formula(forall([X1], implies(NCBITaxon_207598(X1), NCBITaxon_9604(X1)))).
+formula(forall([X1], implies(IAO_0000030__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(BFO_0000005(X1), A_TOP(X1)))).
+formula(forall([X1], implies(NCBITaxon_2157(X1), A_TOP(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBI_0000293(X1, X2), A_TOP(X2))), OBI_0000011(X1)))).
+formula(forall([X1], implies(OBIws_0000103(X1), OBIws_0000170(X1)))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000075(X2)))))).
+formula(forall([X1], implies(IAO_0000577(X1), IAO_0000028(X1)))).
+formula(forall([X1], implies(OBIws_0000036(X1), OBIws_0000100(X1)))).
+formula(forall([X1], implies(OBIws_0000186(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000181__COPY__(X1), OBIws_0000178__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_9604(X1), NCBITaxon_314295(X1)))).
+formula(forall([X1], implies(OBIws_0000117__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000033__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000014__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000005(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000003(X2)))))).
+formula(forall([X1], implies(OBIws_0000093__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000117__COPY__(X1), exists([X2], and(BFO_0000055(X1, X2), _A2__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000001__COPY__(X1), IAO_0000300__COPY__(X1)))).
+formula(forall([X1], implies(_A14__COPY__(X1), exists([X2], and(BFO_0000052(X1, X2), CHEBI_16991__COPY__(X2)))))).
+formula(forall([X1], implies(OBI_0000845(X1), SO_0000001(X1)))).
+formula(forall([X1], implies(OBI_0001173(X1), exists([X2], and(BFO_0000055(X1, X2), OBI_0000947(X2)))))).
+formula(forall([X1], implies(SO_0000104(X1), SO_0000001(X1)))).
+formula(forall([X1], implies(OBIws_0000033__COPY__(X1), OBIws_0000053__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000177__COPY__(X1), IAO_0000064__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000208(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000184(X2)))))).
+formula(forall([X1], implies(OBIws_0000088__COPY__(X1), exists([X2], and(OBIws_0000137(X1, X2), OBIws_0000096__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000195(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000185(X2)))))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000064__COPY__(X2)))))).
+formula(forall([X1], implies(IAO_0000310(X1), IAO_0000030(X1)))).
+formula(forall([X1], implies(OBIws_0000117(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000038__COPY__(X1), OBIws_0000053__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_33316__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000018(X1), IAO_0000064(X1)))).
+formula(forall([X1], implies(NCBITaxon_117570(X1), NCBITaxon_7776(X1)))).
+formula(forall([X1], implies(BFO_0000040(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000116__COPY__(X1), OBIws_0000090__COPY__(X1)))).
+formula(forall([X1], implies(_A2(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000208__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000189__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000106(X1), A_TOP(X1)))).
+formula(forall([X1], implies(NCBITaxon_117571__COPY__(X1), NCBITaxon_117570__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000077__COPY__(X2)))))).
+formula(forall([X1], implies(IAO_0000104(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000069(X2)))))).
+formula(forall([X1], implies(OBIws_0000200(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(OBIws_0000040(X1), exists([X2], and(OBI_0000417(X1, X2), OBI_0200081(X2)))))).
+formula(forall([X1], implies(OBIws_0000161__COPY__(X1), OBI_0000071__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000050(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000078(X1), IAO_0000100(X1)))).
+formula(forall([X1], implies(OBIws_0000060(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000045(X1), A_TOP(X1)))).
+formula(forall([X1], implies(SO_0000104__COPY__(X1), SO_0000001__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000068__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000184(X1), OBIws_0000192(X1)))).
+formula(forall([X1], implies(IAO_0000104(X1), IAO_0000033(X1)))).
+formula(forall([X1], implies(OBIws_0000180(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000029(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000021__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_9605(X1), NCBITaxon_207598(X1)))).
+formula(forall([X1], implies(OBIws_0000154__COPY__(X1), IAO_0000064__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000059(X1, X2), A_TOP(X2))), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000092__COPY__(X1), OBIws_0000117__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000001__COPY__(X1), exists([X2], and(IAO_0000219(X1, X2), IAO_0000310__COPY__(X2)))))).
+formula(forall([X1], implies(OBI_0200000(X1), exists([X2], and(OBI_0000293(X1, X2), IAO_0000027(X2)))))).
+formula(forall([X1], implies(OBIws_0000158__COPY__(X1), OBIws_0000104__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000077(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(OBIws_0000206(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000205(X1), A_TOP(X1)))).
+formula(forall([X1], implies(NCBITaxon_40674(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000018(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000063(X2)))))).
+formula(forall([X1], implies(OBIws_0000183(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000176(X2)))))).
+formula(forall([X1], implies(OBIws_0000179__COPY__(X1), OBIws_0000049__COPY__(X1)))).
+formula(forall([X1], implies(SO_0000001__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000010(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000038(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000037__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000179__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000039__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000176__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000118(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000207__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000208(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000196(X2)))))).
+formula(forall([X1], implies(OBIws_0000208(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000198(X2)))))).
+formula(forall([X1], implies(OBIws_0000202(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000199(X2)))))).
+formula(forall([X1], implies(OBIws_0000039(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000036(X2)))))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000050(X1, X2), A_TOP__COPY__(X2))), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000161(X1), OBI_0000071(X1)))).
+formula(forall([X1], implies(OBIws_0000043__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000063__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000043__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000126__COPY__(X2)))))).
+formula(forall([X1], implies(IAO_0000009__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000117__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000023__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000183__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_32525__COPY__(X1), NCBITaxon_40674__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000117(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000020(X2)))))).
+formula(forall([X1], implies(OBIws_0000079(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBIws_0000130(X1, X2), A_TOP(X2))), IAO_0000030(X1)))).
+formula(forall([X1], implies(OBIws_0000190(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000191(X2)))))).
+formula(forall([X1], implies(OBIws_0000163__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000027__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000189__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000037__COPY__(X1), OBIws_0000040__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0000071(X1), IAO_0000027(X1)))).
+formula(forall([X1], implies(OBIws_0000187__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000075(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(OBIws_0000101(X1), OBIws_0000104(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBIws_0000130(X1, X2), A_TOP(X2))), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000103(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBI_0001573(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBIws_0000132(X1, X2), A_TOP(X2))), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000178__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000204(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000205(X2)))))).
+formula(forall([X1], implies(SO_0000104__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000031__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(IAO_0000219(X1, X2), A_TOP(X2))), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000201__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_9606(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000074__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000086(X1), exists([X2], and(BFO_0000051(X1, X2), OBI_0000973(X2)))))).
+formula(forall([X1], implies(OBI_0200081(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000117(X1), exists([X2], and(BFO_0000055(X1, X2), _A4(X2)))))).
+formula(forall([X1], implies(and(_A10__COPY__(X1), IAO_0000104__COPY__(X1)), _A9__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000175(X1), OBIws_0000027(X1)))).
+formula(forall([X1], implies(OBIws_0000069__COPY__(X1), OBIws_0000124__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000021(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(NCBITaxon_33208__COPY__(X1), NCBITaxon_33154__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000042__COPY__(X1), OBIws_0000104__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000190(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000063__COPY__(X1), OBIws_0000014__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000094(X1), OBI_0000852(X1)))).
+formula(forall([X1], implies(OBIws_0000088__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_9606__COPY__(X1), NCBITaxon_9605__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000055(X1, X2), OBI_0000941__COPY__(X2))), _A16__COPY__(X1)))).
+formula(forall([X1], implies(_A1__COPY__(X1), exists([X2], and(IAO_0000219(X1, X2), OBI_0100026__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000200__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000044(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000208__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000196__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000086__COPY__(X1), exists([X2], and(BFO_0000051(X1, X2), OBI_0000973__COPY__(X2)))))).
+formula(forall([X1], implies(NCBITaxon_2157__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000186__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBIws_0000138(X1, X2), A_TOP__COPY__(X2))), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000093(X1), A_TOP(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000058(X1, X2), _A14(X2))), OBI_0000811(X1)))).
+formula(forall([X1], implies(OBIws_0000184(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000195(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000191(X2)))))).
+formula(forall([X1], implies(OBIws_0000197(X1), OBIws_0000104(X1)))).
+formula(forall([X1], implies(OBIws_0000117__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000020__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000197__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000194(X1), IAO_0000027(X1)))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), IAO_0000429__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000195(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000158(X1), A_TOP(X1)))).
+formula(forall([X1], implies(IAO_0000300(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000050(X1), OBI_0000011(X1)))).
+formula(forall([X1], implies(OBIws_0000043__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000030__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000197(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000191(X2)))))).
+formula(forall([X1], implies(NCBITaxon_2759(X1), OBI_0100026(X1)))).
+formula(forall([X1], implies(IAO_0000033(X1), exists([X2], and(IAO_0000136(X1, X2), BFO_0000017(X2)))))).
+formula(forall([X1], implies(OBIws_0000172(X1), OBIws_0000086(X1)))).
+formula(forall([X1], implies(IAO_0000098__COPY__(X1), IAO_0000033__COPY__(X1)))).
+formula(forall([X1], implies(CHEBI_33839__COPY__(X1), CHEBI_23367__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000148(X1), OBIws_0000171(X1)))).
+formula(forall([X1], implies(OBIws_0000139__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000060__COPY__(X2)))))).
+formula(forall([X1], implies(IAO_0000030(X1), BFO_0000031(X1)))).
+formula(forall([X1], implies(OBIws_0000064(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000203__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000104__COPY__(X1), OBIws_0000050__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000124(X1), IAO_0000098(X1)))).
+formula(forall([X1], implies(OBI_0000811__COPY__(X1), exists([X2], and(BFO_0000058(X1, X2), _A14__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000104__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000034(X1), OBIws_0000051(X1)))).
+formula(forall([X1], implies(OBIws_0000039(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000208(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000200(X2)))))).
+formula(forall([X1], implies(NCBITaxon_32524__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0001173(X1), OBI_0000011(X1)))).
+formula(forall([X1], implies(NCBITaxon_2157(X1), OBI_0100026(X1)))).
+formula(forall([X1], implies(OBIws_0000133(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000033(X1), OBIws_0000053(X1)))).
+formula(forall([X1], implies(OBIws_0000100__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000031(X1), exists([X2], and(OBI_0000299(X1, X2), OBI_0000973(X2)))))).
+formula(forall([X1], implies(OBIws_0000015__COPY__(X1), IAO_0000064__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000206__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000068__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000073__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000172(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000204__COPY__(X1), OBIws_0000104__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000165__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000005(X1), exists([X2], and(IAO_0000136(X1, X2), IAO_0000098(X2)))))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000051(X1, X2), IAO_0000005__COPY__(X2))), _A10__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_33511(X1), NCBITaxon_33316(X1)))).
+formula(forall([X1], implies(OBIws_0000021(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBI_0000011__COPY__(X1), exists([X2], and(BFO_0000055(X1, X2), _A8__COPY__(X2)))))).
+formula(forall([X1], implies(NCBITaxon_40674__COPY__(X1), NCBITaxon_32524__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_33213(X1), NCBITaxon_6072(X1)))).
+formula(forall([X1], implies(OBIws_0000104(X1), OBIws_0000050(X1)))).
+formula(forall([X1], implies(OBIws_0000195__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000184__COPY__(X2)))))).
+formula(forall([X1], implies(IAO_0000109(X1), IAO_0000027(X1)))).
+formula(forall([X1], implies(OBIws_0000007(X1), IAO_0000098(X1)))).
+formula(forall([X1], implies(OBIws_0000020(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(OBIws_0000150(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000026__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000190__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000194__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000195__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000196__COPY__(X2)))))).
+formula(forall([X1], implies(IAO_0000100(X1), IAO_0000027(X1)))).
+formula(forall([X1], implies(OBIws_0000095(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000020__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000163(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000027(X2)))))).
+formula(forall([X1], implies(OBIws_0000043__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000128__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000179(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000195__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000188__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000148__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000069__COPY__(X2)))))).
+formula(forall([X1], implies(NCBITaxon_9347(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000067__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000104__COPY__(X1), exists([X2], and(BFO_0000051(X1, X2), IAO_0000007__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000189(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000101(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBI_0000245(X1), BFO_0000040(X1)))).
+formula(forall([X1], implies(OBIws_0000178__COPY__(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000080__COPY__(X2)))))).
+formula(forall([X1], implies(NCBITaxon_32524(X1), NCBITaxon_32523(X1)))).
+formula(forall([X1], implies(OBIws_0000172__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(CHEBI_33697(X1), A_TOP(X1)))).
+formula(forall([X1], implies(_A11__COPY__(X1), exists([X2], and(BFO_0000052(X1, X2), CHEBI_33697__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000073__COPY__(X2)))))).
+formula(forall([X1], implies(OBI_0000852(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000050__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000207__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), OBIws_0000104__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBIws_0000132(X1, X2), A_TOP(X2))), IAO_0000098(X1)))).
+formula(forall([X1], implies(IAO_0000098__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000086__COPY__(X1), IAO_0000100__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0000973(X1), exists([X2], and(IAO_0000136(X1, X2), SO_0000001(X2)))))).
+formula(forall([X1], implies(exists([X2], and(OBIws_0000130(X1, X2), A_TOP__COPY__(X2))), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000204(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000184(X2)))))).
+formula(forall([X1], implies(OBIws_0000200__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000078(X1), IAO_0000102(X1)))).
+formula(forall([X1], implies(_A12__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000001(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000204(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000189(X2)))))).
+formula(forall([X1], implies(NCBITaxon_33316__COPY__(X1), NCBITaxon_33213__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000193(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000013__COPY__(X1), IAO_0000064__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000183__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000176__COPY__(X2)))))).
+formula(forall([X1], implies(NCBITaxon_33511(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000115(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(_A1(X1), IAO_0000300(X1)))).
+formula(forall([X1], implies(OBIws_0000117__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000038__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000171(X1), A_TOP(X1)))).
+formula(forall([X1], implies(IAO_0000300__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000202(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000189(X2)))))).
+formula(forall([X1], implies(OBIws_0000139__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBI_0000299(X1, X2), A_TOP(X2))), OBI_0000011(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBI_0000417(X1, X2), A_TOP(X2))), OBI_0000011(X1)))).
+formula(forall([X1], implies(OBIws_0000161(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBI_0001173__COPY__(X1), exists([X2], and(BFO_0000055(X1, X2), OBI_0000947__COPY__(X2)))))).
+formula(forall([X1], implies(BFO_0000031__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000117(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000021(X2)))))).
+formula(forall([X1], implies(OBIws_0000195__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000187__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000077__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000101__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000007__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000116__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000102(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000024(X1), IAO_0000028(X1)))).
+formula(forall([X1], implies(OBIws_0000029__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000005__COPY__(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000003__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000204__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000206__COPY__(X2)))))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000057(X1, X2), A_TOP__COPY__(X2))), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000007(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000204__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000080__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000169(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000122__COPY__(X1), IAO_0000100__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000183__COPY__(X1), OBIws_0000040__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000091(X1), exists([X2], and(OBI_0000293(X1, X2), OBI_0000973(X2)))))).
+formula(forall([X1], implies(IAO_0000033__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000177(X1), IAO_0000064(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000051(X1, X2), IAO_0000005(X2))), _A10(X1)))).
+formula(forall([X1], implies(IAO_0000027__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000033(X1), A_TOP(X1)))).
+formula(forall([X1], implies(IAO_0000078(X1), A_TOP(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000058(X1, X2), A_TOP__COPY__(X2))), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000085(X1), OBIws_0000154(X1)))).
+formula(forall([X1], implies(OBIws_0000072__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000116__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000038__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000192__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000139(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000053(X2)))))).
+formula(forall([X1], implies(NCBITaxon_32525__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000043__COPY__(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000090__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000204__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000196__COPY__(X2)))))).
+formula(forall([X1], implies(IAO_0000429(X1), IAO_0000030(X1)))).
+formula(forall([X1], implies(OBIws_0000204(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000193(X2)))))).
+formula(forall([X1], implies(OBIws_0000182__COPY__(X1), IAO_0000100__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000117(X1), exists([X2], and(BFO_0000055(X1, X2), _A2(X2)))))).
+formula(forall([X1], implies(OBI_0000071__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000059(X1, X2), _A9__COPY__(X2))), _A8__COPY__(X1)))).
+formula(forall([X1], implies(OBI_0001173__COPY__(X1), exists([X2], and(BFO_0000051(X1, X2), OBI_0000011__COPY__(X2)))))).
+formula(forall([X1], implies(NCBITaxon_10239__COPY__(X1), OBI_0100026__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000051__COPY__(X1), OBIws_0000118__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000195(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000184(X2)))))).
+formula(forall([X1], implies(OBI_0000811__COPY__(X1), SO_0000001__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000106(X1), IAO_0000098(X1)))).
+formula(forall([X1], implies(OBIws_0000154__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBI_0000973__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000178(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000101__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000107__COPY__(X2)))))).
+formula(forall([X1], implies(OBI_0001173(X1), exists([X2], and(BFO_0000055(X1, X2), OBI_0000941(X2)))))).
+formula(forall([X1], implies(OBIws_0000167__COPY__(X1), IAO_0000027__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000084__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000082__COPY__(X2)))))).
+formula(forall([X1], implies(OBI_0000811(X1), SO_0000001(X1)))).
+formula(forall([X1], implies(exists([X2], and(IAO_0000219(X1, X2), A_TOP__COPY__(X2))), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000196(X1), IAO_0000027(X1)))).
+formula(forall([X1], implies(OBI_0000941(X1), BFO_0000023(X1)))).
+formula(forall([X1], implies(NCBITaxon_33154(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000090__COPY__(X1), exists([X2], and(OBI_0000417(X1, X2), OBIws_0000064__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000150__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000045(X1), exists([X2], and(OBI_0000293(X1, X2), IAO_0000098(X2)))))).
+formula(forall([X1], implies(IAO_0000030__COPY__(X1), BFO_0000031__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000038(X2)))))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000079(X2)))))).
+formula(forall([X1], implies(OBIws_0000101__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000078__COPY__(X2)))))).
+formula(forall([X1], implies(_A5__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(_A3(X1), exists([X2], and(IAO_0000219(X1, X2), OBIws_0000007(X2)))))).
+formula(forall([X1], implies(OBIws_0000195(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000196(X2)))))).
+formula(forall([X1], implies(OBIws_0000205__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_9526(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000027__COPY__(X1), IAO_0000577__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000167(X1), A_TOP(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBIws_0000138(X1, X2), A_TOP(X2))), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000083__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000027__COPY__(X2)))))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000055(X1, X2), OBI_0000941(X2))), _A16(X1)))).
+formula(forall([X1], implies(OBIws_0000195__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000194__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000147__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000021__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000197(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000184(X2)))))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000052(X1, X2), CHEBI_33697__COPY__(X2))), _A11__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000195__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000191__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000084(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000077(X2)))))).
+formula(forall([X1], implies(OBIws_0000026(X1), OBIws_0000171(X1)))).
+formula(forall([X1], implies(OBIws_0000191__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000139(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000061(X2)))))).
+formula(forall([X1], implies(OBIws_0000203(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000193(X2)))))).
+formula(forall([X1], implies(OBIws_0000102__COPY__(X1), OBIws_0000163__COPY__(X1)))).
+formula(forall([X1], implies(exists([X2], and(BFO_0000059(X1, X2), IAO_0000010(X2))), _A12(X1)))).
+formula(forall([X1], implies(OBIws_0000037__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000029__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000148(X1), A_TOP(X1)))).
+formula(forall([X1], implies(BFO_0000007__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_7711__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000097__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_9347__COPY__(X1), NCBITaxon_32525__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000066(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(_A3__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(NCBITaxon_89593(X1), NCBITaxon_7711(X1)))).
+formula(forall([X1], implies(exists([X2], and(OBI_0000293(X1, X2), A_TOP__COPY__(X2))), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000081(X1), exists([X2], and(IAO_0000219(X1, X2), IAO_0000098(X2)))))).
+formula(forall([X1], implies(OBIws_0000039(X1), OBIws_0000040(X1)))).
+formula(forall([X1], implies(OBIws_0000043(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000126(X2)))))).
+formula(forall([X1], implies(OBIws_0000079__COPY__(X1), OBIws_0000165__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000190(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000193(X2)))))).
+formula(forall([X1], implies(OBIws_0000172(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000167(X2)))))).
+formula(forall([X1], implies(OBIws_0000051(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBI_0000845(X1), A_TOP(X1)))).
+formula(forall([X1], implies(BFO_0000007(X1), BFO_0000003(X1)))).
+formula(forall([X1], implies(OBIws_0000055(X1), IAO_0000005(X1)))).
+formula(forall([X1], implies(OBIws_0000015(X1), exists([X2], and(BFO_0000051(X1, X2), OBIws_0000064(X2)))))).
+formula(forall([X1], implies(OBIws_0000192__COPY__(X1), OBI_0000973__COPY__(X1)))).
+formula(forall([X1], implies(CHEBI_16991__COPY__(X1), CHEBI_33696__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000043__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000043__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), IAO_0000429__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000202__COPY__(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000207__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000067(X1), OBIws_0000165(X1)))).
+formula(forall([X1], implies(OBIws_0000013__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000015(X1), IAO_0000064(X1)))).
+formula(forall([X1], implies(OBIws_0000203(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000201(X2)))))).
+formula(forall([X1], implies(IAO_0000033(X1), A_TOP(X1)))).
+formula(forall([X1], implies(BFO_0000004__COPY__(X1), BFO_0000002__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000028(X1), IAO_0000030(X1)))).
+formula(forall([X1], implies(NCBITaxon_314293(X1), NCBITaxon_376913(X1)))).
+formula(forall([X1], implies(_A6(X1), OBIws_0000024(X1)))).
+formula(forall([X1], implies(OBIws_0000198(X1), A_TOP(X1)))).
+formula(forall([X1], implies(NCBITaxon_117571__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(IAO_0000577__COPY__(X1), IAO_0000028__COPY__(X1)))).
+formula(forall([X1], implies(OBIws_0000197__COPY__(X1), exists([X2], and(OBI_0000299(X1, X2), OBIws_0000184__COPY__(X2)))))).
+formula(forall([X1], implies(OBIws_0000197(X1), A_TOP(X1)))).
+formula(forall([X1], implies(OBIws_0000202(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000207(X2)))))).
+formula(forall([X1], implies(OBIws_0000037(X1), exists([X2], and(OBI_0000293(X1, X2), OBIws_0000029(X2)))))).
+formula(forall([X1], implies(CHEBI_33697__COPY__(X1), A_TOP__COPY__(X1)))).
+end_of_list.
+
+list_of_formulae(conjectures).
+formula(forall([X1], implies(OBI_0200081(X1), BFO_0000002__COPY__(X1)))).
+end_of_list.
+
+end_problem.
+

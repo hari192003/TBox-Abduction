@@ -1,0 +1,161 @@
+begin_problem(ont2191886213604630).
+
+list_of_descriptions.
+name({* urn:unnamed:ontology#ont2191886213604630 *}).
+author({* left empty as auto-generated from OWL file *}).
+status(satisfiable).
+description({* obtained from OWL file ../bioportal-30.03.2017-owlxml//pmr.physical-medicine-and-rehabilitation.3.owl.xml through its standard FOL translation *}).
+end_of_list.
+
+list_of_symbols.
+predicates[
+  (A_TOP, 1),
+  (A_TOP__COPY__, 1),
+  (Action, 1),
+  (Action__COPY__, 1),
+  (Air_quality, 1),
+  (Air_quality__COPY__, 1),
+  (Ambulatory_care_site, 1),
+  (Ambulatory_care_site__COPY__, 1),
+  (Cardiac_rehabilitation, 1),
+  (Cardiac_rehabilitation__COPY__, 1),
+  (Climate, 1),
+  (Climate__COPY__, 1),
+  (Community_environment, 1),
+  (Community_environment__COPY__, 1),
+  (Disease, 1),
+  (Disease__COPY__, 1),
+  (Environment, 1),
+  (Environment__COPY__, 1),
+  (Historical, 1),
+  (Historical__COPY__, 1),
+  (Hospital, 1),
+  (Hospital__COPY__, 1),
+  (Hospital_and_or_institution, 1),
+  (Hospital_and_or_institution__COPY__, 1),
+  (Humidity, 1),
+  (Humidity__COPY__, 1),
+  (Natural_environment_and_human_made_changes_to_environment, 1),
+  (Natural_environment_and_human_made_changes_to_environment__COPY__, 1),
+  (Neurological_rehabilitation, 1),
+  (Neurological_rehabilitation__COPY__, 1),
+  (Nursing_home_and_or_ambulatory_care_site, 1),
+  (Nursing_home_and_or_ambulatory_care_site__COPY__, 1),
+  (Observation, 1),
+  (Observation__COPY__, 1),
+  (Physical_rehabilitation, 1),
+  (Physical_rehabilitation__COPY__, 1),
+  (Rehabilitation_therapy, 1),
+  (Rehabilitation_therapy__COPY__, 1),
+  (Residential_environment, 1),
+  (Residential_environment__COPY__, 1),
+  (Respiratory_rehabilitation, 1),
+  (Respiratory_rehabilitation__COPY__, 1),
+  (Site_of_care, 1),
+  (Site_of_care__COPY__, 1),
+  (Temperature, 1),
+  (Temperature__COPY__, 1),
+  (Traumatic_and_or_non_traumatic_injury, 1),
+  (Traumatic_and_or_non_traumatic_injury__COPY__, 1),
+(Historical__COPY__, 1), 
+(Traumatic_and_or_non_traumatic_injury, 1)
+].
+end_of_list.
+
+list_of_formulae(axioms).
+formula(forall([X1], implies(Residential_environment__COPY__(X1), Community_environment__COPY__(X1)))).
+formula(forall([X1], implies(Disease__COPY__(X1), Observation__COPY__(X1)))).
+formula(forall([X1], implies(Air_quality(X1), Natural_environment_and_human_made_changes_to_environment(X1)))).
+formula(forall([X1], implies(Nursing_home_and_or_ambulatory_care_site(X1), Site_of_care(X1)))).
+formula(forall([X1], implies(Traumatic_and_or_non_traumatic_injury__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Nursing_home_and_or_ambulatory_care_site__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Ambulatory_care_site__COPY__(X1), Nursing_home_and_or_ambulatory_care_site__COPY__(X1)))).
+formula(forall([X1], implies(Respiratory_rehabilitation__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Hospital__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Temperature(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Site_of_care(X1), Natural_environment_and_human_made_changes_to_environment(X1)))).
+formula(forall([X1], implies(Site_of_care(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Rehabilitation_therapy__COPY__(X1), Action__COPY__(X1)))).
+formula(forall([X1], implies(Community_environment(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Hospital(X1), Hospital_and_or_institution(X1)))).
+formula(forall([X1], implies(Traumatic_and_or_non_traumatic_injury(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Air_quality(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Air_quality__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Neurological_rehabilitation__COPY__(X1), Rehabilitation_therapy__COPY__(X1)))).
+formula(forall([X1], implies(Neurological_rehabilitation(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Observation(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Action(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Neurological_rehabilitation__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Nursing_home_and_or_ambulatory_care_site__COPY__(X1), Site_of_care__COPY__(X1)))).
+formula(forall([X1], implies(Natural_environment_and_human_made_changes_to_environment__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Community_environment__COPY__(X1), Environment__COPY__(X1)))).
+formula(forall([X1], implies(Respiratory_rehabilitation(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Respiratory_rehabilitation__COPY__(X1), Rehabilitation_therapy__COPY__(X1)))).
+formula(forall([X1], implies(Residential_environment__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Disease(X1), Observation(X1)))).
+formula(forall([X1], implies(Rehabilitation_therapy(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Environment__COPY__(X1), Historical__COPY__(X1)))).
+formula(forall([X1], implies(Rehabilitation_therapy__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Climate(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Humidity(X1), Climate(X1)))).
+formula(forall([X1], implies(Natural_environment_and_human_made_changes_to_environment__COPY__(X1), Environment__COPY__(X1)))).
+formula(forall([X1], implies(Ambulatory_care_site(X1), Nursing_home_and_or_ambulatory_care_site(X1)))).
+formula(forall([X1], implies(Cardiac_rehabilitation(X1), Rehabilitation_therapy(X1)))).
+formula(forall([X1], implies(Physical_rehabilitation__COPY__(X1), Rehabilitation_therapy__COPY__(X1)))).
+formula(forall([X1], implies(Traumatic_and_or_non_traumatic_injury(X1), Disease(X1)))).
+formula(forall([X1], implies(Respiratory_rehabilitation(X1), Rehabilitation_therapy(X1)))).
+formula(forall([X1], implies(Disease__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Temperature(X1), Climate(X1)))).
+formula(forall([X1], implies(Hospital_and_or_institution(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Temperature__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Observation__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Temperature__COPY__(X1), Climate__COPY__(X1)))).
+formula(forall([X1], implies(Traumatic_and_or_non_traumatic_injury__COPY__(X1), Disease__COPY__(X1)))).
+formula(forall([X1], implies(Cardiac_rehabilitation__COPY__(X1), Rehabilitation_therapy__COPY__(X1)))).
+formula(forall([X1], implies(Residential_environment(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Neurological_rehabilitation(X1), Rehabilitation_therapy(X1)))).
+formula(forall([X1], implies(Rehabilitation_therapy(X1), Action(X1)))).
+formula(forall([X1], implies(Hospital(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Hospital__COPY__(X1), Hospital_and_or_institution__COPY__(X1)))).
+formula(forall([X1], implies(Environment(X1), Historical(X1)))).
+formula(forall([X1], implies(Humidity__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Disease(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Site_of_care__COPY__(X1), Natural_environment_and_human_made_changes_to_environment__COPY__(X1)))).
+formula(forall([X1], implies(Nursing_home_and_or_ambulatory_care_site(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Climate(X1), Natural_environment_and_human_made_changes_to_environment(X1)))).
+formula(forall([X1], implies(Hospital_and_or_institution__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Ambulatory_care_site__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Humidity__COPY__(X1), Climate__COPY__(X1)))).
+formula(forall([X1], implies(Historical__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Hospital_and_or_institution(X1), Site_of_care(X1)))).
+formula(forall([X1], implies(Physical_rehabilitation__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Action__COPY__(X1), Historical__COPY__(X1)))).
+formula(forall([X1], implies(Historical(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Residential_environment(X1), Community_environment(X1)))).
+formula(forall([X1], implies(Air_quality__COPY__(X1), Natural_environment_and_human_made_changes_to_environment__COPY__(X1)))).
+formula(forall([X1], implies(Community_environment(X1), Environment(X1)))).
+formula(forall([X1], implies(Climate__COPY__(X1), Natural_environment_and_human_made_changes_to_environment__COPY__(X1)))).
+formula(forall([X1], implies(Environment(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Natural_environment_and_human_made_changes_to_environment(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Community_environment__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Physical_rehabilitation(X1), Rehabilitation_therapy(X1)))).
+formula(forall([X1], implies(Physical_rehabilitation(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Cardiac_rehabilitation(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Site_of_care__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Natural_environment_and_human_made_changes_to_environment(X1), Environment(X1)))).
+formula(forall([X1], implies(Ambulatory_care_site(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Humidity(X1), A_TOP(X1)))).
+formula(forall([X1], implies(Climate__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Action__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Hospital_and_or_institution__COPY__(X1), Site_of_care__COPY__(X1)))).
+formula(forall([X1], implies(Action(X1), Historical(X1)))).
+formula(forall([X1], implies(Environment__COPY__(X1), A_TOP__COPY__(X1)))).
+formula(forall([X1], implies(Cardiac_rehabilitation__COPY__(X1), A_TOP__COPY__(X1)))).
+end_of_list.
+
+list_of_formulae(conjectures).
+formula(forall([X1], implies(Traumatic_and_or_non_traumatic_injury(X1), Historical__COPY__(X1)))).
+end_of_list.
+
+end_problem.
+

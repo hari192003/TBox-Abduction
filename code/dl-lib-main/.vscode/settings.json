@@ -1,0 +1,5 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.autoImportCompletions": false
+}

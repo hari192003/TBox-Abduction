@@ -1,0 +1,2190 @@
+mpath.mouse-pathology-ontology.45.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mpath.mouse-pathology-ontology.45.owl.xml	 0
+lhn.loggerhead-nesting-ontology.31.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/lhn.loggerhead-nesting-ontology.31.owl.xml	 0
+igto.scientific-evidence-based-genetic-testing-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/igto.scientific-evidence-based-genetic-testing-ontology.2.owl.xml	 0
+idomal.malaria-ontology.58.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/idomal.malaria-ontology.58.owl.xml	 0
+gto.genetic-test.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/gto.genetic-test.1.owl.xml	 0
+apaonto.psychology-ontology.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/apaonto.psychology-ontology.4.owl.xml	 0
+msv.metagenome-sample-vocabulary.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/msv.metagenome-sample-vocabulary.1.owl.xml	 0
+tm-mer.traditional-medicine-meridian-value-sets.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/tm-mer.traditional-medicine-meridian-value-sets.1.owl.xml	 0
+tm-other-factors.traditional-medicine-other-factors-value-set.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/tm-other-factors.traditional-medicine-other-factors-value-set.1.owl.xml	 0
+tm-const.traditional-medicine-constitution-value-set.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/tm-const.traditional-medicine-constitution-value-set.1.owl.xml	 0
+cedarpc.cedar-provisional-classes.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cedarpc.cedar-provisional-classes.1.owl.xml	 0
+gpml.graphical-pathway-markup-language.317.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/gpml.graphical-pathway-markup-language.317.owl.xml	 0
+tm-signs-and-sympts.traditional-medicine-signs-and-symptoms-value-set.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/tm-signs-and-sympts.traditional-medicine-signs-and-symptoms-value-set.1.owl.xml	 0
+iso639-2.so-639-2-codes-for-the-representation-of-names-of-languages.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/iso639-2.so-639-2-codes-for-the-representation-of-names-of-languages.1.owl.xml	 0
+mixs.minimal-information-about-any-sequence-ontology.5.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mixs.minimal-information-about-any-sequence-ontology.5.owl.xml	 0
+gco.genome-component-ontology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/gco.genome-component-ontology.3.owl.xml	 6
+pma.portfolio-management-application.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/pma.portfolio-management-application.4.owl.xml	 2
+pgxo.pgxo.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/pgxo.pgxo.1.owl.xml	 5
+dcmitype.dcmi-type-vocabulary.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/dcmitype.dcmi-type-vocabulary.1.owl.xml	 2
+pp.pipeline-patterns-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/pp.pipeline-patterns-ontology.1.owl.xml	 14
+rsa.reference-sequence-annotation.5.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/rsa.reference-sequence-annotation.5.owl.xml	 9
+icd11-bodysystem.body-system-terms-from-icd11.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/icd11-bodysystem.body-system-terms-from-icd11.1.owl.xml	 28
+pseudo.pseudogene.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/pseudo.pseudogene.1.owl.xml	 19
+ptrans.pathogen-transmission-ontology.14.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ptrans.pathogen-transmission-ontology.14.owl.xml	 24
+ogr.ontology-of-geographical-region.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ogr.ontology-of-geographical-region.2.owl.xml	 38
+cedarvs.cedar-value-sets.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cedarvs.cedar-value-sets.4.owl.xml	 29
+dc.dublin-core.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/dc.dublin-core.3.owl.xml	 0
+neudigs.neuroscience-domain-insight-graph.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/neudigs.neuroscience-domain-insight-graph.1.owl.xml	 15
+elig.eligibility-feature-hierarchy.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/elig.eligibility-feature-hierarchy.1.owl.xml	 36
+ogroup.orthologous-group-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ogroup.orthologous-group-ontology.1.owl.xml	 1
+fo.fern-ontology.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/fo.fern-ontology.6.owl.xml	 51
+ixno.interaction-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ixno.interaction-ontology.2.owl.xml	 39
+oborel.open-biological-and-biomedical-ontologies-relationship-types.9.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/oborel.open-biological-and-biomedical-ontologies-relationship-types.9.owl.xml	 0
+cso.clinical-study-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cso.clinical-study-ontology.1.owl.xml	 36
+unitsont.units-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/unitsont.units-ontology.1.owl.xml	 62
+bfo.basic-formal-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bfo.basic-formal-ontology.2.owl.xml	 34
+mera.medical-educational-resource-aggregator.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mera.medical-educational-resource-aggregator.1.owl.xml	 7
+sbol.synthetic-biology-open-language-visual-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/sbol.synthetic-biology-open-language-visual-ontology.2.owl.xml	 45
+tdwgspec.tdwg-specimen-lsid-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/tdwgspec.tdwg-specimen-lsid-ontology.1.owl.xml	 11
+canont.upper-level-cancer-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/canont.upper-level-cancer-ontology.1.owl.xml	 51
+comodi.comodi.5.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/comodi.comodi.5.owl.xml	 64
+pav.pav-provenance-authoring-and-versioning.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/pav.pav-provenance-authoring-and-versioning.3.owl.xml	 0
+lda.ontology-of-language-disorder-in-autism.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/lda.ontology-of-language-disorder-in-autism.1.owl.xml	 35
+sd3.simulation-delivery-and-documentation-deviations.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/sd3.simulation-delivery-and-documentation-deviations.1.owl.xml	 56
+iso19115roles.iso-19115-role-codes.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/iso19115roles.iso-19115-role-codes.1.owl.xml	 0
+medeon.medical-error-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/medeon.medical-error-ontology.1.owl.xml	 56
+caro.common-anatomy-reference-ontology.10.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/caro.common-anatomy-reference-ontology.10.owl.xml	 53
+wsio.web-service-interaction-ontology.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/wsio.web-service-interaction-ontology.4.owl.xml	 32
+rnprio.research-network-and-patient-registry-inventory-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/rnprio.research-network-and-patient-registry-inventory-ontology.1.owl.xml	 76
+tma.tissue-microarray-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/tma.tissue-microarray-ontology.1.owl.xml	 16
+taxrank.taxonomic-rank-vocabulary.9.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/taxrank.taxonomic-rank-vocabulary.9.owl.xml	 61
+bctt.behaviour-change-technique-taxonomy.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bctt.behaviour-change-technique-taxonomy.6.owl.xml	 109
+cabro.computer-assisted-brain-injury-rehabilitation-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cabro.computer-assisted-brain-injury-rehabilitation-ontology.1.owl.xml	 70
+wikipathways.wikipathways.224.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/wikipathways.wikipathways.224.owl.xml	 19
+edda_pt.edda-publication-types-taxonomy.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/edda_pt.edda-publication-types-taxonomy.1.owl.xml	 96
+hom.ontology-of-homology-and-related-concepts-in-biology.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/hom.ontology-of-homology-and-related-concepts-in-biology.6.owl.xml	 75
+bno.bionutrition-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bno.bionutrition-ontology.2.owl.xml	 104
+triage.nurse-triage.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/triage.nurse-triage.2.owl.xml	 60
+medo.mouse-experimental-design-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/medo.mouse-experimental-design-ontology.1.owl.xml	 84
+fire.fire-ontology.7.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/fire.fire-ontology.7.owl.xml	 74
+npi.non-pharmacological-interventions-npis.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/npi.non-pharmacological-interventions-npis.4.owl.xml	 131
+mccv.microbial-culture-collection-vocabulary.10.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mccv.microbial-culture-collection-vocabulary.10.owl.xml	 15
+inm-npi.interventionnelle-non-mdicamenteuse-inm.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/inm-npi.interventionnelle-non-mdicamenteuse-inm.3.owl.xml	 160
+edam-bioimaging.bioimaging-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/edam-bioimaging.bioimaging-ontology.1.owl.xml	 136
+repo.reproductive-trait-and-phenotype-ontology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/repo.reproductive-trait-and-phenotype-ontology.3.owl.xml	 91
+ecp.electronic-care-plan.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ecp.electronic-care-plan.2.owl.xml	 56
+fao.fungal-gross-anatomy-ontology.20.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/fao.fungal-gross-anatomy-ontology.20.owl.xml	 112
+mamo.mathematical-modelling-ontology.14.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mamo.mathematical-modelling-ontology.14.owl.xml	 147
+exo.exposure-ontology.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/exo.exposure-ontology.4.owl.xml	 99
+pmr.physical-medicine-and-rehabilitation.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/pmr.physical-medicine-and-rehabilitation.3.owl.xml	 147
+epilont.epilepsy-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/epilont.epilepsy-ontology.2.owl.xml	 137
+pe.pulmonary-embolism-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/pe.pulmonary-embolism-ontology.1.owl.xml	 127
+ogmd.ontology-of-glucose-metabolism-disorder.31.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ogmd.ontology-of-glucose-metabolism-disorder.31.owl.xml	 133
+icw.international-classification-of-wellness.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/icw.international-classification-of-wellness.4.owl.xml	 120
+panda.probabilistic-knowledge-assembly-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/panda.probabilistic-knowledge-assembly-ontology.2.owl.xml	 97
+ofsmr.open-food-safety-model-repository.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ofsmr.open-food-safety-model-repository.3.owl.xml	 146
+nihss.national-institutes-of-health-stroke-scale-ontology.11.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/nihss.national-institutes-of-health-stroke-scale-ontology.11.owl.xml	 31
+gfvo.genomic-feature-and-variation-ontology.20.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/gfvo.genomic-feature-and-variation-ontology.20.owl.xml	 100
+typon.microbial-typing-ontology.11.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/typon.microbial-typing-ontology.11.owl.xml	 80
+insecth.insecth.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/insecth.insecth.3.owl.xml	 101
+diagont.diagnostic-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/diagont.diagnostic-ontology.1.owl.xml	 112
+emo.enzyme-mechanism-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/emo.enzyme-mechanism-ontology.1.owl.xml	 149
+flyglycodb.flyglycodb.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/flyglycodb.flyglycodb.2.owl.xml	 118
+provo.provenance-ontology.124.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/provo.provenance-ontology.124.owl.xml	 68
+ep.cardiac-electrophysiology-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ep.cardiac-electrophysiology-ontology.2.owl.xml	 216
+ogms.ontology-for-general-medical-science.9.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ogms.ontology-for-general-medical-science.9.owl.xml	 123
+ooevv.ontology-of-experimental-variables-and-values.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ooevv.ontology-of-experimental-variables-and-values.4.owl.xml	 38
+co-wheat.wheat-trait-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/co-wheat.wheat-trait-ontology.1.owl.xml	 175
+asdpto.autism-spectrum-disorder-phenotype-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/asdpto.autism-spectrum-disorder-phenotype-ontology.1.owl.xml	 283
+gbm.glioblastoma.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/gbm.glioblastoma.1.owl.xml	 133
+csso.clinical-signs-and-symptoms-ontology.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/csso.clinical-signs-and-symptoms-ontology.6.owl.xml	 303
+piero.enzyme-reaction-ontology-for-annotating-partial-information-of-chemical-transformation.10.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/piero.enzyme-reaction-ontology-for-annotating-partial-information-of-chemical-transformation.10.owl.xml	 153
+gfo.general-formal-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/gfo.general-formal-ontology.1.owl.xml	 83
+ao.asthma-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ao.asthma-ontology.2.owl.xml	 283
+mwla.medical-web-lifestyle-aggregator.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mwla.medical-web-lifestyle-aggregator.1.owl.xml	 30
+surgical.nurse-surgical.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/surgical.nurse-surgical.1.owl.xml	 46
+koro.knowledge-object-reference-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/koro.knowledge-object-reference-ontology.1.owl.xml	 132
+phylont.phylogenetic-ontology.7.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/phylont.phylogenetic-ontology.7.owl.xml	 208
+onlira.ontology-of-liver-for-radiology.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/onlira.ontology-of-liver-for-radiology.4.owl.xml	 59
+cno_acronym.cno_name.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cno_acronym.cno_name.1.owl.xml	 229
+bim.biomedical-image-ontology.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bim.biomedical-image-ontology.6.owl.xml	 123
+gro-cpd.cereal-plant-development-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/gro-cpd.cereal-plant-development-ontology.1.owl.xml	 235
+shr.student-health-record-ontology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/shr.student-health-record-ontology.3.owl.xml	 326
+xeo.xeml-environment-ontology.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/xeo.xeml-environment-ontology.4.owl.xml	 240
+bmt.biomedical-topics.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bmt.biomedical-topics.1.owl.xml	 276
+ncco.nursing-care-coordination-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ncco.nursing-care-coordination-ontology.1.owl.xml	 397
+hpio.host-pathogen-interactions-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/hpio.host-pathogen-interactions-ontology.2.owl.xml	 277
+zea.maize-gross-anatomy-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/zea.maize-gross-anatomy-ontology.2.owl.xml	 217
+admin.nurse-administrator.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/admin.nurse-administrator.1.owl.xml	 61
+pdo.pathogenic-disease-ontology.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/pdo.pathogenic-disease-ontology.6.owl.xml	 418
+idqa.image-and-data-quality-assessment-ontology.8.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/idqa.image-and-data-quality-assessment-ontology.8.owl.xml	 273
+cbo.cell-behavior-ontology.21.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cbo.cell-behavior-ontology.21.owl.xml	 239
+bp.biopax-ontology-of-biological-pathways.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bp.biopax-ontology-of-biological-pathways.1.owl.xml	 116
+sopharm.suggested-ontology-for-pharmacogenomics.18.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/sopharm.suggested-ontology-for-pharmacogenomics.18.owl.xml	 145
+dseo.data-science-education-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/dseo.data-science-education-ontology.1.owl.xml	 6
+carelex.content-archive-resource-exchange-lexicon.43.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/carelex.content-archive-resource-exchange-lexicon.43.owl.xml	 321
+canco.cancer-chemoprevention-ontology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/canco.cancer-chemoprevention-ontology.3.owl.xml	 166
+amino-acid.amino-acid-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/amino-acid.amino-acid-ontology.2.owl.xml	 161
+ngsonto.ngs-ontology.32.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ngsonto.ngs-ontology.32.owl.xml	 113
+omv.ontology-metadata-vocabulary.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/omv.ontology-metadata-vocabulary.1.owl.xml	 45
+esfo.enzyme-structure-function-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/esfo.enzyme-structure-function-ontology.1.owl.xml	 37
+ros.radiation-oncology-structures-ontology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ros.radiation-oncology-structures-ontology.3.owl.xml	 416
+trans.nurse-transitional.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/trans.nurse-transitional.1.owl.xml	 66
+apo.ascomycete-phenotype-ontology.26.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/apo.ascomycete-phenotype-ontology.26.owl.xml	 304
+phenx.phenx-phenotypic-terms.16.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/phenx.phenx-phenotypic-terms.16.owl.xml	 506
+ontoma.ontology-of-alternative-medicine-french.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ontoma.ontology-of-alternative-medicine-french.1.owl.xml	 372
+psds.plant-structure-development-stage.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/psds.plant-structure-development-stage.6.owl.xml	 310
+doccc.diagnosis-ontology-of-clinical-care-classification.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/doccc.diagnosis-ontology-of-clinical-care-classification.3.owl.xml	 203
+cyto.cytokine.27.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cyto.cytokine.27.owl.xml	 315
+neomark4.neomark-oral-cancer-ontology-version-4.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/neomark4.neomark-oral-cancer-ontology-version-4.1.owl.xml	 341
+phare.pharmacogenomic-relationships-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/phare.pharmacogenomic-relationships-ontology.2.owl.xml	 358
+jerm.sysmo-jerm-ontology-of-systems-biology-for-micro-organisms.14.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/jerm.sysmo-jerm-ontology-of-systems-biology-for-micro-organisms.14.owl.xml	 298
+rao.rheumatoid-arthritis-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/rao.rheumatoid-arthritis-ontology.1.owl.xml	 350
+bspo.spatial-ontology.20.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bspo.spatial-ontology.20.owl.xml	 233
+adalab-meta.adalab-meta-ontology.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/adalab-meta.adalab-meta-ontology.6.owl.xml	 145
+aeo.anatomical-entity-ontology.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/aeo.anatomical-entity-ontology.6.owl.xml	 368
+tok.terminological-and-ontological-knowledge-resources-ontology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/tok.terminological-and-ontological-knowledge-resources-ontology.3.owl.xml	 221
+ogi.ontology-for-genetic-interval.18.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ogi.ontology-for-genetic-interval.18.owl.xml	 248
+bco.biological-collections-ontology.9.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bco.biological-collections-ontology.9.owl.xml	 223
+bsao.botryllus-schlosseri-anatomy-and-development-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bsao.botryllus-schlosseri-anatomy-and-development-ontology.1.owl.xml	 348
+ddanat.dictyostelium-discoideum-anatomy-ontology.16.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ddanat.dictyostelium-discoideum-anatomy-ontology.16.owl.xml	 350
+ancestro.ancestry-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ancestro.ancestry-ontology.2.owl.xml	 554
+uo.units-of-measurement-ontology.43.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/uo.units-of-measurement-ontology.43.owl.xml	 389
+dloro.dependency-layered-ontology-for-radiation-oncology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/dloro.dependency-layered-ontology-for-radiation-oncology.1.owl.xml	 547
+chembio.systems-chemical-biology-and-chemogenomics-ontology.9.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/chembio.systems-chemical-biology-and-chemogenomics-ontology.9.owl.xml	 115
+spto.solanaceae-phenotype-ontology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/spto.solanaceae-phenotype-ontology.3.owl.xml	 422
+vario.variation-ontology.12.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/vario.variation-ontology.12.owl.xml	 443
+ontotoxnuc.ontology-of-nuclear-toxicity.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ontotoxnuc.ontology-of-nuclear-toxicity.2.owl.xml	 647
+ccon.cerrado-concepts-and-plant-community-dynamics.8.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ccon.cerrado-concepts-and-plant-community-dynamics.8.owl.xml	 142
+nidm-results.nidm-results.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/nidm-results.nidm-results.2.owl.xml	 216
+cdao.comparative-data-analysis-ontology.7.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cdao.comparative-data-analysis-ontology.7.owl.xml	 210
+adw.animal-natural-history-and-life-history-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/adw.animal-natural-history-and-life-history-ontology.2.owl.xml	 364
+gfo-bio.general-formal-ontology-for-biology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/gfo-bio.general-formal-ontology-for-biology.1.owl.xml	 285
+mego.mobile-genetic-element-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mego.mobile-genetic-element-ontology.2.owl.xml	 430
+lpt.livestock-product-trait-ontology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/lpt.livestock-product-trait-ontology.3.owl.xml	 510
+bcteo.bone-and-cartilage-tissue-engineering-ontology.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bcteo.bone-and-cartilage-tissue-engineering-ontology.4.owl.xml	 458
+vsao.vertebrate-skeletal-anatomy-ontology.20.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/vsao.vertebrate-skeletal-anatomy-ontology.20.owl.xml	 445
+cao.clusters-of-orthologous-groups-cog-analysis-ontology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cao.clusters-of-orthologous-groups-cog-analysis-ontology.3.owl.xml	 285
+edda.edda-study-designs-taxonomy.11.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/edda.edda-study-designs-taxonomy.11.owl.xml	 592
+iao.information-artifact-ontology.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/iao.information-artifact-ontology.6.owl.xml	 307
+suicideo.suicideonto.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/suicideo.suicideonto.1.owl.xml	 340
+nmr.nmr-instrument-component-of-metabolomics-investigations-ontology.8.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/nmr.nmr-instrument-component-of-metabolomics-investigations-ontology.8.owl.xml	 486
+meo.metagenome-and-microbes-environmental-ontology.8.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/meo.metagenome-and-microbes-environmental-ontology.8.owl.xml	 783
+mixscv.minimal-information-about-any-sequence-mixs-controlled-vocabularies.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mixscv.minimal-information-about-any-sequence-mixs-controlled-vocabularies.2.owl.xml	 518
+qudt.quantities-units-dimensions-and-types-ontology.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/qudt.quantities-units-dimensions-and-types-ontology.4.owl.xml	 207
+cto.clinical-trials-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cto.clinical-trials-ontology.1.owl.xml	 376
+peco.plant-environmental-conditions.15.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/peco.plant-environmental-conditions.15.owl.xml	 558
+eo.ethnicity-ontoloy.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/eo.ethnicity-ontoloy.1.owl.xml	 768
+ontokbcf.ontological-knowledge-base-model-for-cystic-fibrosis.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ontokbcf.ontological-knowledge-base-model-for-cystic-fibrosis.3.owl.xml	 600
+eol.environment-ontology-for-livestock.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/eol.environment-ontology-for-livestock.1.owl.xml	 659
+fbbi.biological-imaging-methods-ontology.14.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/fbbi.biological-imaging-methods-ontology.14.owl.xml	 544
+xco.experimental-conditions-ontology.60.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/xco.experimental-conditions-ontology.60.owl.xml	 614
+mmo.measurement-method-ontology.51.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mmo.measurement-method-ontology.51.owl.xml	 653
+propreo.proteomics-data-and-process-provenance-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/propreo.proteomics-data-and-process-provenance-ontology.2.owl.xml	 426
+obiws.bioinformatics-web-service-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/obiws.bioinformatics-web-service-ontology.2.owl.xml	 443
+ino.interaction-network-ontology.28.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ino.interaction-network-ontology.28.owl.xml	 524
+adalab.adalab-ontology.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/adalab.adalab-ontology.6.owl.xml	 522
+chd.congenital-heart-defects-ontology.5.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/chd.congenital-heart-defects-ontology.5.owl.xml	 508
+kisao.kinetic-simulation-algorithm-ontology.22.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/kisao.kinetic-simulation-algorithm-ontology.22.owl.xml	 569
+sp.smart-protocols.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/sp.smart-protocols.4.owl.xml	 623
+roleo.role-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/roleo.role-ontology.1.owl.xml	 672
+opb.ontology-of-physics-for-biology.10.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/opb.ontology-of-physics-for-biology.10.owl.xml	 817
+mat.minimal-anatomical-terminology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mat.minimal-anatomical-terminology.3.owl.xml	 504
+glycordf.glycordf.14.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/glycordf.glycordf.14.owl.xml	 169
+rex.physico-chemical-process.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/rex.physico-chemical-process.6.owl.xml	 734
+ontodm-kdd.ontology-of-data-mining-investigations.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ontodm-kdd.ontology-of-data-mining-investigations.1.owl.xml	 500
+cogpo.cognitive-paradigm-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cogpo.cognitive-paradigm-ontology.1.owl.xml	 488
+cptac.cptac-proteomics-pipeline-infrastructure-ontology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cptac.cptac-proteomics-pipeline-infrastructure-ontology.3.owl.xml	 342
+carre.carre-risk-factor-ontology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/carre.carre-risk-factor-ontology.3.owl.xml	 278
+mirnao.microrna-ontology.11.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mirnao.microrna-ontology.11.owl.xml	 762
+fb-dv.drosophila-development-ontology.19.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/fb-dv.drosophila-development-ontology.19.owl.xml	 705
+smash.smash-ontology.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/smash.smash-ontology.6.owl.xml	 239
+mf.mental-functioning-ontology.13.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mf.mental-functioning-ontology.13.owl.xml	 744
+gro.gene-regulation-ontology.5.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/gro.gene-regulation-ontology.5.owl.xml	 755
+ontopneumo.ontology-of-pneumology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ontopneumo.ontology-of-pneumology.1.owl.xml	 1153
+top-menelas.menelas-project-top-level-ontology.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/top-menelas.menelas-project-top-level-ontology.4.owl.xml	 737
+ontodt.ontology-of-datatypes.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ontodt.ontology-of-datatypes.6.owl.xml	 748
+spo.skin-physiology-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/spo.skin-physiology-ontology.1.owl.xml	 577
+omrse.ontology-of-medically-related-social-entities.33.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/omrse.ontology-of-medically-related-social-entities.33.owl.xml	 468
+cn.computer-network.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cn.computer-network.1.owl.xml	 1184
+bro_acronym.bro_name.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bro_acronym.bro_name.1.owl.xml	 508
+bro.biomedical-resource-ontology.14.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bro.biomedical-resource-ontology.14.owl.xml	 510
+ico.informed-consent-ontology.9.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ico.informed-consent-ontology.9.owl.xml	 637
+ecg.electrocardiography-ontology.12.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ecg.electrocardiography-ontology.12.owl.xml	 1203
+bt.biotop-ontology.12.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bt.biotop-ontology.12.owl.xml	 438
+opl.ontology-for-parasite-lifecycle.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/opl.ontology-for-parasite-lifecycle.6.owl.xml	 564
+vivo.vivo-ontology-for-researcher-discovery.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/vivo.vivo-ontology-for-researcher-discovery.2.owl.xml	 360
+allergydetector.allergy-detector-ii.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/allergydetector.allergy-detector-ii.1.owl.xml	 18
+lbo.livestock-breed-ontology.8.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/lbo.livestock-breed-ontology.8.owl.xml	 1062
+mfoem.emotion-ontology.24.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mfoem.emotion-ontology.24.owl.xml	 1032
+pdon.parkinsons-disease-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/pdon.parkinsons-disease-ontology.1.owl.xml	 1252
+bao-gpcr.g-protein-coupled-receptor-bioassays-ontology.23.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bao-gpcr.g-protein-coupled-receptor-bioassays-ontology.23.owl.xml	 968
+bof.biodiversity-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bof.biodiversity-ontology.2.owl.xml	 231
+mo.microarray-and-gene-expression-data-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mo.microarray-and-gene-expression-data-ontology.1.owl.xml	 422
+tads.tick-gross-anatomy-ontology.17.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/tads.tick-gross-anatomy-ontology.17.owl.xml	 947
+vivo-isf.vivo-integrated-semantic-framework.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/vivo-isf.vivo-integrated-semantic-framework.1.owl.xml	 514
+sitbac.situation-based-access-control-ontology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/sitbac.situation-based-access-control-ontology.3.owl.xml	 188
+ido.infectious-disease-ontology.10.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ido.infectious-disease-ontology.10.owl.xml	 626
+fhho.family-health-history-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/fhho.family-health-history-ontology.1.owl.xml	 264
+ocre.ontology-of-clinical-research.23.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ocre.ontology-of-clinical-research.23.owl.xml	 500
+spd.spider-ontology.23.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/spd.spider-ontology.23.owl.xml	 1191
+pe-o.pre-eclampsia-ontology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/pe-o.pre-eclampsia-ontology.3.owl.xml	 1440
+qibo.quantitative-imaging-biomarker-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/qibo.quantitative-imaging-biomarker-ontology.2.owl.xml	 642
+pedterm.pediatric-terminology.5.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/pedterm.pediatric-terminology.5.owl.xml	 1760
+bho.bleeding-history-phenotype-ontology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bho.bleeding-history-phenotype-ontology.3.owl.xml	 806
+rnao.rna-ontology.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/rnao.rna-ontology.4.owl.xml	 1218
+rpo.resource-of-asian-primary-immunodeficiency-diseases-rapid-phenotype-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/rpo.resource-of-asian-primary-immunodeficiency-diseases-rapid-phenotype-ontology.2.owl.xml	 1701
+rxno.name-reaction-ontology.26.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/rxno.name-reaction-ontology.26.owl.xml	 1367
+aba-amb.allen-brain-atlas-aba-adult-mouse-brain-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/aba-amb.allen-brain-atlas-aba-adult-mouse-brain-ontology.1.owl.xml	 913
+fix.physico-chemical-methods-and-properties.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/fix.physico-chemical-methods-and-properties.4.owl.xml	 1684
+bhn.biologie-hors-nomenclature.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bhn.biologie-hors-nomenclature.1.owl.xml	 2542
+ogdi.ontology-for-genetic-disease-investigations.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ogdi.ontology-for-genetic-disease-investigations.3.owl.xml	 506
+pathlex.anatomic-pathology-lexicon.5.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/pathlex.anatomic-pathology-lexicon.5.owl.xml	 1783
+dideo.the-potential-drug-drug-interaction-and-potential-drug-drug-interaction-evidence-ontology.41.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/dideo.the-potential-drug-drug-interaction-and-potential-drug-drug-interaction-evidence-ontology.41.owl.xml	 642
+pto.plant-trait-ontology.426.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/pto.plant-trait-ontology.426.owl.xml	 1675
+roo.radiation-oncology-ontology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/roo.radiation-oncology-ontology.3.owl.xml	 1262
+poro.porifera-ontology.8.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/poro.porifera-ontology.8.owl.xml	 1348
+obcs.ontology-of-biological-and-clinical-statistics.13.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/obcs.ontology-of-biological-and-clinical-statistics.13.owl.xml	 1235
+nmosp.neuromorphoorg-species-ontology.15.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/nmosp.neuromorphoorg-species-ontology.15.owl.xml	 1484
+sao.subcellular-anatomy-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/sao.subcellular-anatomy-ontology.2.owl.xml	 861
+plio.protein-ligand-interaction-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/plio.protein-ligand-interaction-ontology.1.owl.xml	 1052
+schema.schemaorg.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/schema.schemaorg.1.owl.xml	 1111
+sso.syndromic-surveillance-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/sso.syndromic-surveillance-ontology.1.owl.xml	 177
+obib.ontology-for-biobanking.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/obib.ontology-for-biobanking.6.owl.xml	 893
+cheminf.chemical-information-ontology.42.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cheminf.chemical-information-ontology.42.owl.xml	 1195
+soy.soy-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/soy.soy-ontology.2.owl.xml	 1832
+wb-ls.c-elegans-development-vocabulary.45.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/wb-ls.c-elegans-development-vocabulary.45.owl.xml	 1421
+gmm.gomapman.25.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/gmm.gomapman.25.owl.xml	 1895
+neomark3.neomark-oral-cancer-ontology-version-3.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/neomark3.neomark-oral-cancer-ontology-version-3.2.owl.xml	 70
+diab.biomedbridges-diabetes-ontology.73.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/diab.biomedbridges-diabetes-ontology.73.owl.xml	 1788
+tron.tribolium-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/tron.tribolium-ontology.2.owl.xml	 2065
+atol.animal-trait-ontology-for-livestock.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/atol.animal-trait-ontology-for-livestock.1.owl.xml	 2178
+vhog.vertebrate-homologous-organ-group-ontology.11.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/vhog.vertebrate-homologous-organ-group-ontology.11.owl.xml	 1687
+ntdo.neglected-tropical-disease-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ntdo.neglected-tropical-disease-ontology.1.owl.xml	 603
+onl-dp.dataset-processing.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/onl-dp.dataset-processing.1.owl.xml	 964
+epo.early-pregnancy-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/epo.early-pregnancy-ontology.1.owl.xml	 1860
+hfo.heart-failure-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/hfo.heart-failure-ontology.1.owl.xml	 2064
+eco.evidence-and-conclusion-ontology.49.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/eco.evidence-and-conclusion-ontology.49.owl.xml	 1939
+ado.alzheimers-disease-ontology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ado.alzheimers-disease-ontology.3.owl.xml	 2330
+ontodm-core.ontology-of-core-data-mining-entities.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ontodm-core.ontology-of-core-data-mining-entities.6.owl.xml	 1413
+fb-cv.flybase-controlled-vocabulary.20.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/fb-cv.flybase-controlled-vocabulary.20.owl.xml	 1059
+pato.phenotypic-quality-ontology.164.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/pato.phenotypic-quality-ontology.164.owl.xml	 2017
+pco.population-and-community-ontology.12.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/pco.population-and-community-ontology.12.owl.xml	 2412
+sse.surgical-secondary-events.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/sse.surgical-secondary-events.2.owl.xml	 242
+trak.taxonomy-for-rehabilitation-of-knee-conditions.5.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/trak.taxonomy-for-rehabilitation-of-knee-conditions.5.owl.xml	 2194
+cmpo.cellular-microscopy-phenotype-ontology.14.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cmpo.cellular-microscopy-phenotype-ontology.14.owl.xml	 1786
+stato.statistics-ontology.11.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/stato.statistics-ontology.11.owl.xml	 1504
+birnlex.biomedical-informatics-research-network-project-lexicon.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/birnlex.biomedical-informatics-research-network-project-lexicon.1.owl.xml	 3572
+rnrmu.rnrmu.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/rnrmu.rnrmu.1.owl.xml	 2243
+pae.plant-anatomy.13.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/pae.plant-anatomy.13.owl.xml	 2395
+gro-cpga.cereal-plant-gross-anatomy-ontology.11.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/gro-cpga.cereal-plant-gross-anatomy-ontology.11.owl.xml	 2395
+hivo004.hivontologymainowl.16.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/hivo004.hivontologymainowl.16.owl.xml	 1574
+onl-mr-da.magnetic-resonance-dataset-acquisition-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/onl-mr-da.magnetic-resonance-dataset-acquisition-ontology.1.owl.xml	 1186
+peao.plant-experimental-assay-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/peao.plant-experimental-assay-ontology.1.owl.xml	 2626
+vico.vaccination-informed-consent-ontology.10.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/vico.vaccination-informed-consent-ontology.10.owl.xml	 1808
+sio.semanticscience-integrated-ontology.72.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/sio.semanticscience-integrated-ontology.72.owl.xml	 1848
+aao.amphibian-gross-anatomy-ontology.8.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/aao.amphibian-gross-anatomy-ontology.8.owl.xml	 2692
+biomo.biological-observation-matrix-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/biomo.biological-observation-matrix-ontology.1.owl.xml	 1865
+abd.anthology-of-biosurveillance-diseases.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/abd.anthology-of-biosurveillance-diseases.4.owl.xml	 2637
+dco-debugit.debugit-core-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/dco-debugit.debugit-core-ontology.1.owl.xml	 2067
+wb-phenotype.c-elegans-phenotype-vocabulary.240.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/wb-phenotype.c-elegans-phenotype-vocabulary.240.owl.xml	 2795
+psimod.protein-modification-ontology.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/psimod.protein-modification-ontology.4.owl.xml	 3583
+ms.mass-spectrometry-ontology.116.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ms.mass-spectrometry-ontology.116.owl.xml	 2958
+po.plant-ontology.15.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/po.plant-ontology.15.owl.xml	 2827
+pw.pathway-ontology.71.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/pw.pathway-ontology.71.owl.xml	 3258
+edam.edam-bioinformatics-operations-types-of-data-data-formats-identifiers-and-topics.33.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/edam.edam-bioinformatics-operations-types-of-data-data-formats-identifiers-and-topics.33.owl.xml	 4669
+cmo.clinical-measurement-ontology.75.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cmo.clinical-measurement-ontology.75.owl.xml	 3343
+odnae.ontology-of-drug-neuropathy-adverse-events.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/odnae.ontology-of-drug-neuropathy-adverse-events.3.owl.xml	 3058
+ehdaa.human-developmental-anatomy-ontology-abstract-version-1.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ehdaa.human-developmental-anatomy-ontology-abstract-version-1.6.owl.xml	 2335
+envo.environment-ontology.45.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/envo.environment-ontology.45.owl.xml	 2907
+so.sequence-types-and-features-ontology.220.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/so.sequence-types-and-features-ontology.220.owl.xml	 3077
+sdo.sleep-domain-ontology.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/sdo.sleep-domain-ontology.4.owl.xml	 2402
+esso.epilepsy-syndrome-seizure-ontology.5.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/esso.epilepsy-syndrome-seizure-ontology.5.owl.xml	 3869
+tgma.mosquito-gross-anatomy-ontology.17.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/tgma.mosquito-gross-anatomy-ontology.17.owl.xml	 2732
+acgt-mo.cancer-research-and-management-acgt-master-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/acgt-mo.cancer-research-and-management-acgt-master-ontology.2.owl.xml	 2095
+chmo.chemical-methods-ontology.18.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/chmo.chemical-methods-ontology.18.owl.xml	 3404
+ontoneo.obstetric-and-neonatal-ontology.8.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ontoneo.obstetric-and-neonatal-ontology.8.owl.xml	 2375
+vt.vertebrate-trait-ontology.65.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/vt.vertebrate-trait-ontology.65.owl.xml	 3974
+of.ontofood.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/of.ontofood.1.owl.xml	 309
+hupson.human-physiology-simulation-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/hupson.human-physiology-simulation-ontology.1.owl.xml	 3450
+nifdys.neuroscience-information-framework-nif-dysfunction-ontlogy.14.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/nifdys.neuroscience-information-framework-nif-dysfunction-ontlogy.14.owl.xml	 3190
+nifcell.neuroscience-information-framework-nif-cell-ontology.14.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/nifcell.neuroscience-information-framework-nif-cell-ontology.14.owl.xml	 3209
+mcbcc.breast-tissue-cell-lines-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mcbcc.breast-tissue-cell-lines-ontology.2.owl.xml	 2382
+dermo.human-dermatological-disease-ontology.10.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/dermo.human-dermatological-disease-ontology.10.owl.xml	 3993
+nemo.neural-electromagnetic-ontology.24.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/nemo.neural-electromagnetic-ontology.24.owl.xml	 2179
+nifsubcell.neuroscience-information-framework-nif-subcellular-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/nifsubcell.neuroscience-information-framework-nif-subcellular-ontology.1.owl.xml	 3244
+ifar.fanconi-anemia-ontology.5.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ifar.fanconi-anemia-ontology.5.owl.xml	 4977
+dcm.dicom-controlled-terminology.9.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/dcm.dicom-controlled-terminology.9.owl.xml	 6
+idoden.dengue-fever-ontology.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/idoden.dengue-fever-ontology.6.owl.xml	 5880
+ddo.diabetes-mellitus-diagnosis-ontology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ddo.diabetes-mellitus-diagnosis-ontology.3.owl.xml	 6843
+nmobr.neuromorphoorg-brain-region-ontologies.30.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/nmobr.neuromorphoorg-brain-region-ontologies.30.owl.xml	 2833
+swo.software-ontology.27.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/swo.software-ontology.27.owl.xml	 5431
+hl7.health-level-seven-reference-implementation-model-version-3.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/hl7.health-level-seven-reference-implementation-model-version-3.3.owl.xml	 8072
+ero.eagle-i-research-resource-ontology.14.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ero.eagle-i-research-resource-ontology.14.owl.xml	 4530
+mooculado.molgula-oculata-anatomy-and-development-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mooculado.molgula-oculata-anatomy-and-development-ontology.2.owl.xml	 4737
+mooccuado.molgula-occulta-anatomy-and-development-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mooccuado.molgula-occulta-anatomy-and-development-ontology.2.owl.xml	 4737
+moocciado.molgula-occidentalis-anatomy-and-development-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/moocciado.molgula-occidentalis-anatomy-and-development-ontology.2.owl.xml	 4737
+haroreado.halocynthia-roretzi-anatomy-and-development-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/haroreado.halocynthia-roretzi-anatomy-and-development-ontology.2.owl.xml	 4737
+haauraado.halocynthia-aurantium-anatomy-and-development-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/haauraado.halocynthia-aurantium-anatomy-and-development-ontology.2.owl.xml	 4737
+obi_bcgo.beta-cell-genomics-ontology.14.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/obi_bcgo.beta-cell-genomics-ontology.14.owl.xml	 4211
+phmammado.phallusia-mammillata-anatomy-and-development-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/phmammado.phallusia-mammillata-anatomy-and-development-ontology.2.owl.xml	 4873
+phfumiado.phallusia-fumigata-anatomy-and-development-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/phfumiado.phallusia-fumigata-anatomy-and-development-ontology.2.owl.xml	 4873
+cisaviado.ciona-savignyi-anatomy-and-development-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cisaviado.ciona-savignyi-anatomy-and-development-ontology.2.owl.xml	 4873
+ciinteado.ciona-intestinalis-anatomy-and-development-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ciinteado.ciona-intestinalis-anatomy-and-development-ontology.2.owl.xml	 4873
+rs.rat-strain-ontology.80.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/rs.rat-strain-ontology.80.owl.xml	 6089
+teddy.terminology-for-the-description-of-dynamics.11.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/teddy.terminology-for-the-description-of-dynamics.11.owl.xml	 253
+omit.ontology-for-microrna-target.40.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/omit.ontology-for-microrna-target.40.owl.xml	 3886
+ctcae.common-terminology-criteria-for-adverse-events.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ctcae.common-terminology-criteria-for-adverse-events.2.owl.xml	 3876
+tao.teleost-anatomy-ontology.135.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/tao.teleost-anatomy-ontology.135.owl.xml	 5173
+icps.international-classification-for-patient-safety.7.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/icps.international-classification-for-patient-safety.7.owl.xml	 520
+mfo.medaka-fish-anatomy-and-development-ontology.14.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mfo.medaka-fish-anatomy-and-development-ontology.14.owl.xml	 4402
+onl-msa.mental-state-assessment.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/onl-msa.mental-state-assessment.1.owl.xml	 2133
+genepio.genepio.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/genepio.genepio.1.owl.xml	 5789
+bdo.bone-dysplasia-ontology.9.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bdo.bone-dysplasia-ontology.9.owl.xml	 2480
+fb-sp.fly-taxonomy.7.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/fb-sp.fly-taxonomy.7.owl.xml	 6587
+gene-cds.genomic-clinical-decision-support-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/gene-cds.genomic-clinical-decision-support-ontology.1.owl.xml	 2997
+xao.xenopus-anatomy-and-development-ontology.24.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/xao.xenopus-anatomy-and-development-ontology.24.owl.xml	 6230
+cogat.cognitive-atlas-ontology.7.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cogat.cognitive-atlas-ontology.7.owl.xml	 8177
+ovae.ontology-of-vaccine-adverse-events.10.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ovae.ontology-of-vaccine-adverse-events.10.owl.xml	 3817
+bto.brenda-tissue-and-enzyme-source-ontology.33.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bto.brenda-tissue-and-enzyme-source-ontology.33.owl.xml	 7007
+nigo.neural-immune-gene-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/nigo.neural-immune-gene-ontology.2.owl.xml	 8829
+imgt-ontology.immunogenetics-ontology.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/imgt-ontology.immunogenetics-ontology.4.owl.xml	 2205
+bao.bioassay-ontology.29.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bao.bioassay-ontology.29.owl.xml	 7409
+ego.epigenome-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ego.epigenome-ontology.1.owl.xml	 5431
+doid.human-disease-ontology.589.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/doid.human-disease-ontology.589.owl.xml	 8433
+npo.nanoparticle-ontology.31.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/npo.nanoparticle-ontology.31.owl.xml	 3657
+obi.ontology-for-biomedical-investigations.32.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/obi.ontology-for-biomedical-investigations.32.owl.xml	 5602
+atc.anatomical-therapeutic-chemical-classification.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/atc.anatomical-therapeutic-chemical-classification.1.owl.xml	 10153
+matrelement.material-element.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/matrelement.material-element.1.owl.xml	 3956
+matrcompound.material-compound.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/matrcompound.material-compound.1.owl.xml	 3956
+idobru.brucellosis-ontology.61.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/idobru.brucellosis-ontology.61.owl.xml	 5854
+matrrockigneous.material-rock-igneouus.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/matrrockigneous.material-rock-igneouus.2.owl.xml	 3956
+procchemical.chemical-process.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/procchemical.chemical-process.1.owl.xml	 3956
+matr.material.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/matr.material.1.owl.xml	 3956
+matrrock.material-rock.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/matrrock.material-rock.1.owl.xml	 3956
+mineral.material-mineral.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mineral.material-mineral.1.owl.xml	 3975
+mnr.material-natural-resource.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mnr.material-natural-resource.1.owl.xml	 3978
+moc.material-organic-compound.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/moc.material-organic-compound.1.owl.xml	 3981
+orth.orthology-ontology.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/orth.orthology-ontology.4.owl.xml	 5892
+ontolurgences.emergency-care-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ontolurgences.emergency-care-ontology.1.owl.xml	 12093
+heio.regional-healthcare-system-interoperability-and-information-exchange-measurement-ontology.17.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/heio.regional-healthcare-system-interoperability-and-information-exchange-measurement-ontology.17.owl.xml	 97
+ecso.the-ecosystem-ontology.50.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ecso.the-ecosystem-ontology.50.owl.xml	 9238
+sedi.semantic-dicom-ontology.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/sedi.semantic-dicom-ontology.6.owl.xml	 1743
+hao.hymenoptera-anatomy-ontology.24.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/hao.hymenoptera-anatomy-ontology.24.owl.xml	 4652
+ehda.human-developmental-anatomy-ontology-timed-version.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ehda.human-developmental-anatomy-ontology-timed-version.6.owl.xml	 8339
+vo.vaccine-ontology.246.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/vo.vaccine-ontology.246.owl.xml	 9284
+mccl.cell-line-ontology-by-mahadevan.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mccl.cell-line-ontology-by-mahadevan.2.owl.xml	 12345
+enm.enanomapper.14.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/enm.enanomapper.14.owl.xml	 13333
+ato.amphibian-taxonomy-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ato.amphibian-taxonomy-ontology.2.owl.xml	 12163
+mhc.major-histocompatibility-complex-ontology.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mhc.major-histocompatibility-complex-ontology.4.owl.xml	 13635
+mp.mammalian-phenotype-ontology.316.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mp.mammalian-phenotype-ontology.316.owl.xml	 14278
+zfa.zebrafish-anatomy-and-development-ontology.50.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/zfa.zebrafish-anatomy-and-development-ontology.50.owl.xml	 11806
+oae.ontology-of-adverse-events.160.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/oae.ontology-of-adverse-events.160.owl.xml	 10523
+ontoad.bilingual-ontology-of-alzheimers-disease-and-related-diseases.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ontoad.bilingual-ontology-of-alzheimers-disease-and-related-diseases.2.owl.xml	 8364
+iceci.international-classification-of--external-causes-of-injuries.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/iceci.international-classification-of--external-causes-of-injuries.6.owl.xml	 2231
+sweet.semantic-web-for-earth-and-environment-technology-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/sweet.semantic-web-for-earth-and-environment-technology-ontology.1.owl.xml	 5115
+mono.monogenean-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/mono.monogenean-ontology.2.owl.xml	 33
+hp.human-phenotype-ontology.563.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/hp.human-phenotype-ontology.563.owl.xml	 15974
+foodon.foodon.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/foodon.foodon.1.owl.xml	 12864
+ocvdae.ontology-of-cardiovascular-drug-adverse-events.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ocvdae.ontology-of-cardiovascular-drug-adverse-events.2.owl.xml	 12089
+ehdaa2.human-developmental-anatomy-ontology-abstract-version-2.32.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ehdaa2.human-developmental-anatomy-ontology-abstract-version-2.32.owl.xml	 13366
+wb-bt.c-elegans-gross-anatomy-vocabulary.116.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/wb-bt.c-elegans-gross-anatomy-vocabulary.116.owl.xml	 15175
+adar.autism-dsm-adi-r-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/adar.autism-dsm-adi-r-ontology.1.owl.xml	 820
+bridg.biomedical-research-integrated-domain-group-model.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bridg.biomedical-research-integrated-domain-group-model.1.owl.xml	 1107
+bcchrcatalog.bc-childrens-hospital-research-institute-study-catalog.15.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/bcchrcatalog.bc-childrens-hospital-research-institute-study-catalog.15.owl.xml	 32682
+dermlex.dermatology-lexicon.4.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/dermlex.dermatology-lexicon.4.owl.xml	 6105
+icf.international-classification-of-functioning-disability-and-health.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/icf.international-classification-of-functioning-disability-and-health.3.owl.xml	 1634
+syn.sage-bionetworks-synapse-ontology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/syn.sage-bionetworks-synapse-ontology.3.owl.xml	 15352
+stuff.stuff-ontology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/stuff.stuff-ontology.3.owl.xml	 1224
+cl.cell-ontology.61.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cl.cell-ontology.61.owl.xml	 19440
+efo.experimental-factor-ontology.161.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/efo.experimental-factor-ontology.161.owl.xml	 27240
+pdo_cas.plant-diversity-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/pdo_cas.plant-diversity-ontology.1.owl.xml	 793
+emap.mouse-gross-anatomy-and-development-ontology.7.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/emap.mouse-gross-anatomy-and-development-ontology.7.owl.xml	 21721
+ncro.non-coding-rna-ontology.12.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ncro.non-coding-rna-ontology.12.owl.xml	 29132
+cseo.cigarette-smoke-exposure-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cseo.cigarette-smoke-exposure-ontology.2.owl.xml	 26475
+fypo.fission-yeast-phenotype-ontology.273.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/fypo.fission-yeast-phenotype-ontology.273.owl.xml	 27562
+ccont.cell-culture-ontology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ccont.cell-culture-ontology.3.owl.xml	 32010
+tto.teleost-taxonomy-ontology.43.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/tto.teleost-taxonomy-ontology.43.owl.xml	 38639
+hugo.human-genome-organization-gene-symbols.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/hugo.human-genome-organization-gene-symbols.3.owl.xml	 32917
+fb-bt.drosophila-gross-anatomy-ontology.38.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/fb-bt.drosophila-gross-anatomy-ontology.38.owl.xml	 34878
+galen.galen-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/galen.galen-ontology.1.owl.xml	 35531
+rctv2.read-clinical-terminology-version-2.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/rctv2.read-clinical-terminology-version-2.1.owl.xml	 88824
+uberon.uber-anatomy-ontology.251.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/uberon.uber-anatomy-ontology.251.owl.xml	 51483
+cu-vo.venom-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cu-vo.venom-ontology.1.owl.xml	 16
+go-ext.gene-ontology-extension.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/go-ext.gene-ontology-extension.2.owl.xml	 68770
+ogg-mm.ontology-of-genes-and-genomes---mouse.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ogg-mm.ontology-of-genes-and-genomes---mouse.2.owl.xml	 69536
+ogg.ontology-of-genes-and-genomes.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ogg.ontology-of-genes-and-genomes.3.owl.xml	 69864
+ordo.orphanet-rare-disease-ontology.10.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ordo.orphanet-rare-disease-ontology.10.owl.xml	 55337
+flopo.flora-phenotype-ontology.8.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/flopo.flora-phenotype-ontology.8.owl.xml	 60759
+ochv.ontology-of-consumer-health-vocabulary.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ochv.ontology-of-consumer-health-vocabulary.1.owl.xml	 6
+hrdo.disease-core-ontology-applied-to-rare-diseases.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/hrdo.disease-core-ontology-applied-to-rare-diseases.2.owl.xml	 84998
+vto.vertebrate-taxonomy-ontology.10.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/vto.vertebrate-taxonomy-ontology.10.owl.xml	 106944
+go.gene-ontology.1557.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/go.gene-ontology.1557.owl.xml	 107784
+natpro.natural-products-ontology.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/natpro.natural-products-ontology.1.owl.xml	 12365
+phage.phylogenetics-ontology.5.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/phage.phylogenetics-ontology.5.owl.xml	 108023
+hino.human-interaction-network-ontology.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/hino.human-interaction-network-ontology.6.owl.xml	 137771
+go-plus.go-plus.324.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/go-plus.go-plus.324.owl.xml	 171142
+ftc.functional-therapeutic-chemical-classification-system.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ftc.functional-therapeutic-chemical-classification-system.1.owl.xml	 145415
+dinto.the-drug-drug-interactions-ontology.5.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/dinto.the-drug-drug-interactions-ontology.5.owl.xml	 173600
+clo.cell-line-ontology.55.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/clo.cell-line-ontology.55.owl.xml	 115653
+chebi.chemical-entities-of-biological-interest-ontology.113.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/chebi.chemical-entities-of-biological-interest-ontology.113.owl.xml	 233436
+ncit.national-cancer-institute-thesaurus.47.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ncit.national-cancer-institute-thesaurus.47.owl.xml	 166660
+aura.kb_bio_101.1.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/aura.kb_bio_101.1.owl.xml	 26771
+rh-mesh.robert-hoehndorf-version-of-mesh.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/rh-mesh.robert-hoehndorf-version-of-mesh.3.owl.xml	 432805
+nifstd.neuroscience-information-framework-nif-standard-ontology.21.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/nifstd.neuroscience-information-framework-nif-standard-ontology.21.owl.xml	 217635
+fma.foundational-model-of-anatomy.20.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/fma.foundational-model-of-anatomy.20.owl.xml	 255864
+radlex.radiology-lexicon.37.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/radlex.radiology-lexicon.37.owl.xml	 46429
+nbo.neuro-behavior-ontology.24.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/nbo.neuro-behavior-ontology.24.owl.xml	 382430
+biomodels.biomodels-ontology.3.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/biomodels.biomodels-ontology.3.owl.xml	 416999
+ncbitaxon.national-center-for-biotechnology-information-ncbi-organismal-classification.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/ncbitaxon.national-center-for-biotechnology-information-ncbi-organismal-classification.2.owl.xml	 847755
+pr.protein-ontology.69.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/pr.protein-ontology.69.owl.xml	 879516
+reto.regulation-of-transcription-ontology.7.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/reto.regulation-of-transcription-ontology.7.owl.xml	 942005
+rexo.regulation-of-gene-expression-ontolology.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/rexo.regulation-of-gene-expression-ontolology.6.owl.xml	 162839
+gaz.gazetteer.14.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/gaz.gazetteer.14.owl.xml	 806766
+gexo.gene-expression-ontology.2.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/gexo.gene-expression-ontology.2.owl.xml	 170932
+dron.the-drug-ontology.6.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/dron.the-drug-ontology.6.owl.xml	 853617
+cco.cell-cycle-ontology.9.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/cco.cell-cycle-ontology.9.owl.xml	 282683
+pxo.proteasix-ontology.10.owl.xml
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+../../ontologies/bioportal-30.03.2017-owlxml/pxo.proteasix-ontology.10.owl.xml	 1700221
